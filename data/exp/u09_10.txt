@@ -1,0 +1,86 @@
+# 유닛 5-9 (관계대명사/명사절 접속사), 5-10 (특수한 구문, 비교/도치)
+5-9:practice-A:1|선행사 a movie가 사물이므로 which가 알맞다.
+5-9:practice-A:2|뒤에 visited the factory의 목적어가 이미 있어 whom은 불필요하고, 주어 자리를 채우는 who가 맞다.
+5-9:practice-A:3|사람을 보충 설명하는 콤마 뒤에는 that을 쓰지 못한다. 따라서 who.
+5-9:practice-A:4|that은 전치사 바로 뒤에 올 수 없다. have great respect for의 목적어가 앞으로 나온 것이므로 for whom.
+5-9:practice-A:5|what은 선행사를 싫어한다. 선행사 the design(사물)이므로 which.
+5-9:practice-A:6|[함정 주의] location만 보고 where를 고르지 말 것. 뒤에 주어 없이 is가 이어지므로 주격 관계대명사 which.
+5-9:practice-A:7|become은 2형식 동사라 목적어가 필요 없어 whom이 안 된다. book 앞에서 소유격 역할을 하는 whose.
+5-9:practice-A:8|문장 끝에 participate in이 있어 in이 선행사 an event 앞으로 간 형태. 전치사+관계대명사 in which.
+5-9:practice-A:9|뒤에 동사 starts, are paid 두 개가 나오므로 work를 명사로 보고 소유격 whose가 맞다.
+5-9:practice-A:10|what은 선행사를 취하지 않는다. visited의 목적어가 빠졌고 선행사가 사물이므로 목적격 that.
+5-9:practice-B:1|ensure 뒤에 목적어가 없으므로 that 이하가 목적어 역할을 하는 명사절 접속사.
+5-9:practice-B:2|know 뒤에 목적어가 없고 which 이하가 그 목적어 역할을 하는 명사절 접속사.
+5-9:practice-B:3|선행사 the report가 있고 which 이하에서 revised의 목적어가 빠져 있으므로 관계대명사.
+5-9:practice-B:4|realized 뒤에 명사 목적어가 없으므로 that 이하가 목적어 역할을 하는 명사절 접속사.
+5-9:practice-B:5|know 뒤에 목적어가 없고 who 이하가 그 내용을 담는 명사절 접속사.
+5-9:practice-B:6|앞에 완전한 명사 the reason이 있고 뒤 문장이 완전하다. reason을 꾸미는 관계부사 why.
+5-9:practice-B:7|전치사 of 뒤 목적어 자리에서 when 이하가 명사절 접속사 역할을 한다.
+5-9:practice-B:8|determine 뒤 목적어 역할을 하는 명사절 접속사. determine whether는 토익 빈출 구문.
+5-9:practice-B:9|as to(~에 대해서)는 전치사이고 whether 이하가 전치사의 목적어 역할을 하는 명사절 접속사.
+5-9:practice-B:10|선행사 an artist 뒤에서 paintings를 이끌어 소유를 나타내는 소유격 관계대명사 whose.
+5-9:practice-B:11|선행사 the book 뒤 borrowed의 목적어가 빠져 있으므로 목적격 관계대명사 that.
+5-9:practice-B:12|prefer 뒤에 목적어가 없으므로 that 이하가 목적어 역할을 하는 명사절 접속사.
+5-9:practice-B:13|선행사 the author 뒤 interviewed의 목적어가 빠져 있어 목적격 관계대명사 whom. 앞 명사를 설명하는 구조다.
+5-9:actual:1|동사 is, received 두 개이므로 접속사가 필요하다. 앞 명사 an expert를 받아 주어 역할을 하는 사람 선행사용 주격 관계대명사 who가 정답. whom/whoever는 구조상 불가. 어휘: expert 전문가
+5-9:actual:2|동사 is restricted, have registered 두 개이므로 접속사가 필요하다. 주어가 빠졌으므로 사람 선행사 employees를 꾸미는 주격 관계대명사 who. 어휘: be restricted to ~로 제한되다
+5-9:actual:3|동사 will be released, reopens 두 개라 접속사가 필요하다. 완전한 절을 잇는 시점 부사절 접속사 when(~할 때)이 정답. whether는 or not과 쓰이고 that은 불완전한 문장 앞뒤에 쓰인다.
+5-9:actual:4|빈칸 앞에 meeting이라는 명사가 있으므로 anyone 등 명사는 불가. next week를 수식하는 부사 sometime(언젠가)이 정답. 어휘: schedule 일정을 잡다
+5-9:actual:5|동사 finishes, will receive 두 개라 접속사가 필요하고 명사 없이 시작하므로 anyone who를 표현하는 Whoever(~하는 누구든)가 정답.
+5-9:actual:6|동사 may access, agree 두 개라 접속사가 필요하다. nonetheless는 부사라 오답. 주어가 있는 완전한 절을 이어 주는 부사절 접속사 once(일단 ~하면)가 정답.
+5-9:actual:7|동사 discovered, was 두 개이며 discovered의 목적어와 was의 주어가 모두 빠진 불완전한 문장이다. 목적어이자 주어 역할을 하는 명사절 접속사 What이 정답.
+5-9:actual:8|want to와 are 사이에 동사가 하나 더 필요하다. 생략된 that절을 목적어로 취하는 대표 동사 ensure(확실히 하다)가 정답.
+5-9:actual:9|동사 includes, support 두 개라 접속사가 필요하다. 앞 명사 businesses를 꾸며 주어 역할을 하는 주격 관계대명사 that. whose는 뒤에 명사가 와야 해서 오답.
+5-9:actual:10|we asked의 목적어가 빠진 구조다. questions 뒤에 목적격 관계대명사 that이 생략된 것이므로 빈칸에는 능동태 동사 asked가 맞다. are asked/have been asked는 수동이라 오답.
+5-9:actual:11|동사 increased, remained 두 개라 접속사가 필요하다. 완전한 두 절을 잇는 부사절 접속사 whereas(~인 반면)가 정답. 어휘: flat 변동이 없는
+5-9:actual:12|note는 ~라는 점에 유의하라는 뜻으로 목적어 that절을 취한다. 따라서 that이 정답.
+5-9:actual:13|동사 should be hung, exit 두 개이고 exit는 명사(출구)이므로 patrons와 중복되어 관계절 구조가 된다. the doors from 뒤에는 전치사 목적어가 필요하므로 전치사+관계대명사 from which(D)가 정답.
+5-9:actual:14|동사 is, will be, improves가 세 개이므로 접속사가 둘 이상 필요하다. with의 목적어 역할을 하는 명사절 접속사 how가 정답. 전치사 뒤에는 that절이 올 수 없다.
+5-9:actual:15|동사 hired, include 두 개라 접속사가 필요하다. 앞 명사 presentations(사물)를 꾸며 주어 역할을 하는 주격 관계대명사 that이 정답.
+5-9:actual:16|describe 뒤에 how to+동사원형 구조가 알맞다. what to+동사원형이면 뒤에 목적어가 없어야 하는데 the air filter가 있어 오답. 어휘: describe 설명하다
+5-9:actual:17|빈칸 앞에 social media가 있어 선행사가 필요한 what은 불가하고, -ing 구문과 어울리는 접속사 while(~하는 동안)이 정답.
+5-9:actual:18|동사 will be texted, is approaching 두 개라 접속사가 필요하다. is approaching 뒤 완전한 절을 이끌므로 부사절 접속사 whenever(~할 때마다)가 정답.
+5-9:actual:19|동사 will be responsible, should be decided 두 개라 접속사가 필요하다. 빈칸 뒤 participant(셀 수 있는 명사)를 수식하며 명사절을 만들 수 있는 Which(어떤)가 정답.
+5-9:actual:20|decide 뒤에 명사절이 오며 주어를 채우면서 두 절을 이어 주는 의문형용사/대명사 which가 정답. when, whether, how는 뒤에 주어가 필요하다.
+5-10:practice-A:1|짧은 형용사의 비교급은 -er을 붙이므로 higher.
+5-10:practice-A:2|비교급 앞에서는 부사가 와서 more effective를 수식한다. 부사 significantly.
+5-10:practice-A:3|the+형용사+명사(standards) 구조이므로 형용사 자리. 최상급 highest.
+5-10:practice-A:4|최상급 most 뒤 react to 사이 부사 자리이므로 favorably.
+5-10:practice-A:5|the+형용사+명사(challenges)에서 형용사 자리. 최상급 most significant.
+5-10:practice-A:6|be동사와 형용사 refundable 사이 부사 자리이므로 fully.
+5-10:practice-A:7|부사 yet은 최상급을 강조할 수 있다. very는 문장 끝에 오지 않는다. the very latest처럼 최상급 앞에 온다.
+5-10:practice-A:8|소유격 his+형용사+명사(novel) 구조에서 형용사 자리. most recent.
+5-10:practice-A:9|a+형용사+명사(suitcase) 구조이므로 원급 heavy. 최상급은 the와 쓰이므로 불가.
+5-10:practice-A:10|수동태 be와 determined 사이 부사 자리이므로 largely.
+5-10:practice-B:1|than이 있으므로 large는 larger가 되어야 한다.
+5-10:practice-B:2|in+장소(the region)는 최상급 단서이므로 higher가 아니라 highest.
+5-10:practice-B:3|of ~ 중에서 가장 긴이므로 the longest가 맞는 문장이다.
+5-10:practice-B:4|Sales increased가 완전한 구조이므로 형용사가 아니라 부사 most rapidly가 와야 한다.
+5-10:practice-B:5|very는 비교급을 강조하지 못한다. much, even, still, far, a lot 등을 써야 한다.
+5-10:practice-B:6|be동사 뒤 than 앞 비교급을 강조하는 부사 even이 쓰인 맞는 문장.
+5-10:practice-B:7|make+목적어+형용사(5형식) 구조에서 as ~ as possible의 원급 비교이므로 shortly(곧)가 아니라 형용사 short가 맞다.
+5-10:practice-B:8|than 앞에 형용사 비교급 costlier와 비교급 강조 부사 still이 쓰인 맞는 문장. costlier는 costly의 비교급.
+5-10:practice-B:9|than이 있으므로 최상급 latest가 아니라 비교급 later. no later than(늦어도 ~까지는)을 외워 두자.
+5-10:practice-B:10|become은 2형식 동사라 형용사를 취한다. 부사 frequently가 아니라 more frequent가 되어야 한다.
+5-10:practice-B:11|부정의 부사 Hardly가 문장 앞에 나오면 주어와 동사가 도치되어 have/had+주어+p.p.가 된다. 맞는 문장.
+5-10:practice-B:12|문장 맨 앞 Enclosure는 주어가 아니다. 동사 is 앞의 enclose의 p.p.형 Enclosed가 문장 앞에 온 도치 구문이어야 한다.
+5-10:actual:1|as+형용사/부사+as 원급 비교 구조이므로 빈칸에는 원급이 온다. be동사 was 뒤 형용사 slow가 정답. 어휘: inquiry 문의
+5-10:actual:2|their+빈칸+명사(level) 구조라 형용사 자리. ever가 있고 than ever 형태는 비교급/최상급 강조이므로 최상급 highest가 정답.
+5-10:actual:3|빈칸 뒤 than이 있으므로 비교급이 필요하다. 보기 중 비교급은 more frequently 하나뿐이다.
+5-10:actual:4|the ----- of 구조에서 명사를 고르기 쉬우나 cost는 비교 구조의 단서가 아니다. 뒤 of the three options는 ~ 중에서라는 최상급 표현이므로 costliest.
+5-10:actual:5|the+빈칸+명사(vacation packages) 구조라 명사를 수식하는 형용사 자리이다. 보기 중 (A)는 명사, (B)는 동사, (C)는 부사이므로 최상급 형용사 (D)가 정답. 이처럼 단순 품사 문제에 비교급/최상급 형태가 섞이면 품사 자체에 집중한다.
+5-10:actual:6|than이 있으므로 비교급이 필요하다. 보기 중 비교급은 more rigid뿐. 어휘: rigid 단단한
+5-10:actual:7|빈칸 뒤 online은 명사가 아니라 부사이므로 빈칸은 even이 강조하는 비교급 lower가 정답. lowly는 형용사 ~낮은이라는 뜻.
+5-10:actual:8|최상급 the latest를 강조할 수 있는 부사는 very이다. 최상급 앞에서 very는 매우가 아니라 강조 역할을 한다.
+5-10:actual:9|품사와 급이 섞인 문제다. 빈칸 뒤 명사 feedback을 꾸미는 형용사 자리이고 than이 있으므로 비교급 more substantial이 정답.
+5-10:actual:10|비교급 more worthwhile을 강조하는 부사 even(훨씬)이 정답이다. soon은 미래, alone은 혼자라 부적절. 어휘: emphasize 강조하다
+5-10:actual:11|the second 같은 서수가 오면 최상급이 온다. distributed는 p.p.로 newspaper를 수식하며, 이를 꾸미는 부사 자리이므로 the second most widely가 정답.
+5-10:actual:12|reported 뒤 rise는 동사가 아니라 명사이다. the+빈칸+rise 구조라 형용사 자리. have p.p. to date(지금까지)는 최상급 단서이므로 sharpest.
+5-10:actual:13|if가 생략되고 조동사 should가 주어 앞으로 나간 도치 구문이다. 원래 문장은 If the desserts should not appeal to customers. 따라서 (D) Should.
+5-10:actual:14|빈칸 뒤 동사 are가 있는데 주어로 쓰인 명사가 없다. 부정어+be동사+주어+p.p. 도치 구문이므로 부정의 의미를 가진 (D) Seldom이 정답.
+5-10:actual:15|빈칸 뒤 more orders가 있으므로 비교급을 강조하는 부사 significantly가 정답. much, even, far, still, a lot 외에 significantly, considerably, substantially도 자주 나온다.
+5-10:actual:16|as ~ as 원급 비교 사이에 many/much 같은 수식이 없으므로 명사 safety는 오답. 동사를 수식하는 부사 safely가 정답. 어휘: crucial 중요한
+5-10:actual:17|빈칸은 명사 ones를 수식하는 형용사 자리이므로 부사와 명사는 오답. 최상급은 the가 필요하므로 비교급 darker가 정답.
+5-10:actual:18|ever는 비교급/최상급 강조에 쓰이며 than ever 형태로 쓰이거나 단독으로 올 때는 최상급의 단서이다. 따라서 최상급 largest가 정답.
+5-10:actual:19|보기가 모두 형용사이다. 명사 prices를 꾸밀 필요가 없고 prices까지 이미 완전한 문장이다. at the lowest prices possible처럼 최상급 뒤에서 강조하는 possible과 같은 형용사를 묻는 문제이므로 정답은 (C) available이다.
+5-10:actual:20|빈칸 뒤 be동사(are)와 주어(they)의 어순이 바뀐 도치 구문이다. nor가 neither A nor B 구조에서만 쓰이는 것은 아니므로 (D) nor가 정답.

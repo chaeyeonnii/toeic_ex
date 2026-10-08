@@ -1,0 +1,4 @@
+{
+  "exclude": [".import", "node_modules", ".next"],
+  "ignore": [".import"]
+}

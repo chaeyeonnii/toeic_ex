@@ -1,0 +1,555 @@
+# 형식
+# @list <unit key>|<제목>|<kind>[|옵션...]
+#   vprep : 동사|전치사(/로 여러 개)|뜻          -> 전치사 고르기 + 자동사/타동사 + 뜻 고르기
+#   vgroup: 동사|전치사|뜻                      -> 전치사에 따라 뜻이 달라지는 동사 (그룹 안에서 전치사 고르기)
+#   compl : 완전자동사|뜻                        -> 전치사 필요 여부 + 뜻
+#   both  : 표현|자 또는 타|뜻                   -> 자동사/타동사 구분
+#   cat   : 항목|정답 라벨(여러 개면 /)|뜻        -> 분류 문제. @list 줄 옵션: 질문 | 라벨1;라벨2;...
+#   mean  : 항목|뜻                              -> 뜻 고르기만
+@list 5-5|자동사+전치사 (토익에 자주 출제되는 자동사+전치사)|vprep
+arrive|in/at|~에 도착하다
+deal|with|~을 처리하다, 다루다
+depend|on/upon|~에 의존하다, 달려 있다
+rely|on/upon|~에 의존하다, 달려 있다
+result|in|~라는 결과를 낳다
+result|from|~이 원인이다
+respond|to|~에 응답[반응]하다
+coincide|with|~와 일치하다
+focus|on|~에 중점을 두다
+concentrate|on|~에 집중하다
+proceed|with|~을 계속하다, 진행하다
+proceed|to|~로 나아가다
+belong|to|~에 속하다
+participate|in|~에 참석하다
+wait|for|~을 기다리다
+appeal|to|~에 호소하다, 매력적이다
+communicate|with|~와 소통하다
+qualify|for|~에 자격을 얻다
+consist|of|~로 구성되다
+dispose|of|~을 처리하다, 없애다
+differ|in/from|~에서/~와 다르다
+collaborate|with/on|~와/~에 대해 협력하다
+call|off|~을 취소하다
+put|off|~을 연기하다
+enroll|in|~에 등록하다
+register|for|~에 등록하다
+account|for|~을 설명하다; (비율을) 차지하다
+refer|to|~을 참고하다, 보다
+comment|on|~에 대해 논평하다
+consent|to|~에 동의하다
+comply|with|~을 따르다, 준수하다
+conform|to|~을 따르다
+interfere|with|~을 방해하다
+refrain|from|~을 삼가다, 자제하다
+subscribe|to|~을 구독[가입]하다
+specialize|in|~을 전문으로 하다
+inquire|about|~에 대해 문의하다
+inquire|into|~을 조사하다
+succeed|in|~에 성공하다
+succeed|to|~을 물려받다
+
+@list 5-5|전치사에 따라 의미가 달라지는 자동사+전치사|vgroup
+look|at|~을 보다
+look|for|~을 찾다
+look|over|~을 검토하다
+look|into|~을 조사하다
+go|to|~로 가다
+go|with|~을 선택하다, ~와 어울리다
+go|over|~을 검토하다
+go|through|~을 겪다
+come|to|~로 오다
+come|with|~이 딸려 오다
+come|by|~에 들르다
+come|across|~을 우연히 마주치다
+turn|on|(전원 등을) 켜다
+turn|off|(전원 등을) 끄다
+turn|in|~을 제출하다
+turn|down|~을 거절하다
+
+@list 5-5|전치사도 필요 없다, 완전자동사|compl
+rise|증가하다, 오르다
+arise|(특히 문제 등이) 발생하다
+expire|만료되다, 만기가 되다
+last|지속되다, 계속되다
+happen|발생하다, 일어나다
+diminish|줄어들다, 약화되다
+take place|발생하다, 일어나다, 개최되다
+thrive, flourish|번창하다
+occur|발생하다, 일어나다
+appear|나타나다, 발생하다
+exist|존재하다
+disappear|사라지다
+
+@list 5-5|자동사/타동사 둘 다 자주 출제되는 동사|both
+return|타|~을 돌려주다, 반납하다
+return to|자|~로 돌아가다
+benefit|타|~에게 유익하다
+benefit from|자|~로부터 득을 보다
+communicate|타|~을 전하다, 알리다
+communicate with|자|~와 소통하다
+report|타|~을 보고하다
+report to|자|~에게 알리다, ~로 가다
+expand|타|~을 확장하다
+expand into|자|~로 진입하다, 진출하다
+begin, start|타|~을 시작하다
+begin, start with|자|~로 시작하다
+end, conclude|타|~을 끝내다
+end, conclude with|자|~로 끝나다
+lead|타|~을 안내하다, 이끌다
+lead to|자|(결과가) ~에 이르다, ~로 이어지다
+assemble|타|~을 조립하다, 모으다, 집합시키다
+assemble|자|모이다
+
+@list 5-6|to + 동사원형을 목적어로 잘 이끄는 동사|cat|다음 동사 뒤에 오는 형태는?|to + 동사원형;동사-ing;목적어 + to + 동사원형
+want, wish, hope|to + 동사원형|원하다
+prefer|to + 동사원형|선호하다
+decide|to + 동사원형|결정하다
+manage|to + 동사원형|해내다
+choose, opt|to + 동사원형|선택하다
+tend|to + 동사원형|경향이 있다
+pretend|to + 동사원형|~인 척하다
+neglect|to + 동사원형|잊다, 방치하다
+offer|to + 동사원형|제안하다
+fail|to + 동사원형|실패하다
+would like|to + 동사원형/목적어 + to + 동사원형|하고자 하다, 원하다
+need|to + 동사원형/목적어 + to + 동사원형|필요로 하다
+plan|to + 동사원형|계획하다
+promise / pledge|to + 동사원형|약속하다 / 서약하다
+afford|to + 동사원형|(경제/시간적) 여력이 되다
+try / attempt|to + 동사원형|노력하다 / 시도하다
+intend|to + 동사원형|의도하다
+refuse, decline|to + 동사원형|거절하다
+hesitate|to + 동사원형|망설이다, 주저하다
+agree|to + 동사원형|합의하다, 동의하다
+expect|to + 동사원형/목적어 + to + 동사원형|기대하다
+strive|to + 동사원형|노력하다
+encourage|목적어 + to + 동사원형|권장하다
+allow|목적어 + to + 동사원형|허가하다, 가능하게 하다
+persuade|목적어 + to + 동사원형|설득하다
+force|목적어 + to + 동사원형|강요하다
+remind|목적어 + to + 동사원형|상기시키다
+advise|목적어 + to + 동사원형|조언하다, 충고하다
+ask|목적어 + to + 동사원형|요청하다
+invite|목적어 + to + 동사원형|권유하다
+warn|목적어 + to + 동사원형|경고하다
+enable|목적어 + to + 동사원형|가능하게 하다
+require|목적어 + to + 동사원형|요구하다
+instruct|목적어 + to + 동사원형|지시하다, 지침을 주다
+tell|목적어 + to + 동사원형|말하다
+enjoy|동사-ing|즐기다
+finish|동사-ing|끝내다
+consider|동사-ing|고려하다
+avoid|동사-ing|피하다
+suggest|동사-ing|제안하다
+recommend|동사-ing|권고하다, 추천하다
+include|동사-ing|포함하다
+mind|동사-ing|꺼리다
+risk|동사-ing|위험을 무릅쓰다
+dislike|동사-ing|싫어하다
+delay|동사-ing|미루다
+postpone|동사-ing|미루다
+tolerate|동사-ing|용인하다, 참다
+discontinue|동사-ing|중단하다
+keep|동사-ing|계속 ~하다
+deny|동사-ing|부인하다
+give up|동사-ing|포기하다
+object to|동사-ing|반대하다
+
+@list 5-1|빈출 불가산명사 vs 가산명사 (a/an, 복수형 가능 여부)|cat|a(n)를 붙이거나 복수형(-s)으로 쓸 수 있나요?|불가산명사 (a/-s 불가);가산명사
+advice|불가산명사 (a/-s 불가)|조언
+information|불가산명사 (a/-s 불가)|정보
+luggage|불가산명사 (a/-s 불가)|짐, 수하물
+baggage|불가산명사 (a/-s 불가)|짐, 수하물
+equipment|불가산명사 (a/-s 불가)|장비
+machinery|불가산명사 (a/-s 불가)|기계류
+furniture|불가산명사 (a/-s 불가)|가구
+mail|불가산명사 (a/-s 불가)|우편물
+access|불가산명사 (a/-s 불가)|접근, 접속
+research|불가산명사 (a/-s 불가)|연구
+authorization|불가산명사 (a/-s 불가)|승인, 허가
+approval|불가산명사 (a/-s 불가)|승인
+consent|불가산명사 (a/-s 불가)|동의
+clothing|불가산명사 (a/-s 불가)|의류
+planning|불가산명사 (a/-s 불가)|계획 세우기
+funding|불가산명사 (a/-s 불가)|자금 지원
+employment|불가산명사 (a/-s 불가)|고용
+permission|불가산명사 (a/-s 불가)|허가
+assistance|불가산명사 (a/-s 불가)|도움
+participation|불가산명사 (a/-s 불가)|참여
+satisfaction|불가산명사 (a/-s 불가)|만족
+seating|불가산명사 (a/-s 불가)|좌석 (배치)
+stationery|불가산명사 (a/-s 불가)|문구류
+feedback|불가산명사 (a/-s 불가)|피드백, 의견
+merchandise|불가산명사 (a/-s 불가)|상품
+suggestion|가산명사|제안
+recommendation|가산명사|추천
+document|가산명사|문서
+employee|가산명사|직원
+reservation|가산명사|예약
+refund|가산명사|환불
+invoice|가산명사|송장, 청구서
+brochure|가산명사|안내 책자
+
+@list 5-2|둘 다 형용사지만 의미가 다른 경우 (헷갈리는 쌍)|pair
+dependable|믿을 만한
+dependent|의존하는
+considerable|상당한
+considerate|사려 깊은
+responsible|책임이 있는
+responsive|반응하는, 즉각 대응하는
+extensive|광범위한
+extended|연장된
+industrial|산업의
+industrious|근면한
+economic|경제의
+economical|절약되는, 경제적인
+confident|자신 있는
+confidential|기밀의
+sensitive|민감한
+sensible|분별 있는, 합리적인
+exhaustive|철저한, 빠짐없는
+exhausted|기진맥진한
+forgetful|잘 잊어버리는
+forgettable|잊기 쉬운, 기억에 남지 않는
+
+@list 5-2|be + 형용사 + 전치사|adjprep
+beneficial|to|~에 유익한
+conducive|to|~에 도움이 되는
+suitable|for|~에 적합한
+ideal|for|~에 이상적인
+responsive|to|~에 반응하는
+reflective|of|~을 반영하는
+subject|to|~의 영향을 받기 쉬운, ~에 달려 있는
+susceptible|to|~에 민감한, 걸리기 쉬운
+capable|of|~할 수 있는
+compatible|with|~와 호환되는
+indicative|of|~을 나타내는
+vulnerable|to|~에 취약한
+optimistic|about|~에 대해 낙관하는
+skeptical|of|~에 대해 회의적인
+critical|to|~에 중요한
+critical|of|~에 대해 비판적인
+comparable|in/with|~와 비슷한
+responsible|for|~에 책임이 있는
+accountable|for|~에 책임이 있는
+reliant|on/upon|~에 의존하는
+dependent|on/upon|~에 의존하는
+enthusiastic|about|~에 열정적인
+passionate|about|~에 열정적인
+
+@list 5-2|수량 수식어: 뒤에 오는 명사 형태는?|cat|뒤에 올 수 있는 명사는?|복수 가산명사;불가산명사;단수 가산명사;모두 가능
+several|복수 가산명사|몇몇의
+many|복수 가산명사|많은
+a few|복수 가산명사|조금 있는
+few|복수 가산명사|거의 없는
+multiple|복수 가산명사|다수의
+various|복수 가산명사|다양한
+numerous|복수 가산명사|수많은
+much|불가산명사|많은
+a little|불가산명사|조금 있는
+little|불가산명사|거의 없는
+each|단수 가산명사|각각의
+every|단수 가산명사|모든
+another|단수 가산명사|또 다른
+all|모두 가능|모든
+some|모두 가능|일부의
+most|모두 가능|대부분의
+a lot of|모두 가능|많은
+
+@list 5-2|시제 부사: 어울리는 시제는?|cat|어울리는 시제는?|과거;현재;현재진행;미래
+recently|과거|최근에
+previously|과거|이전에
+formerly|과거|예전에
+once|과거|한때
+regularly|현재|정기적으로
+periodically|현재|주기적으로
+occasionally|현재|가끔
+routinely|현재|일상적으로
+typically|현재|보통
+generally|현재|일반적으로
+now|현재진행|지금
+currently|현재진행|현재
+presently|현재진행|현재
+soon|미래|곧
+shortly|미래|곧
+
+@list 5-3|동사의 문형: 4형식 vs 5형식|cat|이 동사가 쓰이는 대표 문형은?|4형식 (간접목적어 + 직접목적어);5형식 (목적어 + 목적격 보어)
+give|4형식 (간접목적어 + 직접목적어)|주다
+offer|4형식 (간접목적어 + 직접목적어)|제공하다
+send|4형식 (간접목적어 + 직접목적어)|보내주다
+show|4형식 (간접목적어 + 직접목적어)|보여주다
+grant|4형식 (간접목적어 + 직접목적어)|수여하다, 허락하다
+award|4형식 (간접목적어 + 직접목적어)|수여하다
+make|5형식 (목적어 + 목적격 보어)|~을 …하게 만들다
+find|5형식 (목적어 + 목적격 보어)|~이 …임을 알게 되다
+keep|5형식 (목적어 + 목적격 보어)|~을 …한 상태로 유지하다
+consider|5형식 (목적어 + 목적격 보어)|~을 …로 여기다
+leave|5형식 (목적어 + 목적격 보어)|~을 …한 채로 두다
+render|5형식 (목적어 + 목적격 보어)|~을 …하게 만들다
+deem|5형식 (목적어 + 목적격 보어)|~을 …로 간주하다
+
+@list 5-4|시간 표현: 어울리는 시제는?|cat|이 시간 표현과 어울리는 시제는?|현재;과거;미래;현재완료
+usually|현재|보통, 대개
+sometimes|현재|때때로, 가끔
+regularly|현재|정기적으로
+generally|현재|일반적으로
+typically|현재|보통
+often|현재|종종, 자주
+every + 시점|현재|~마다
+last + 시점|과거|지난 ~
+yesterday|과거|어제
+ago|과거|~ 전에
+formerly|과거|이전에
+previously|과거|이전에
+tomorrow|미래|내일
+next + 시점|미래|다음 ~
+soon|미래|곧
+shortly|미래|곧
+as of / beginning / starting + 시점|미래|~부로
+over the last + 기간|현재완료|지난 ~ 동안
+over the past + 기간|현재완료|지난 ~ 동안
+since + 시점|현재완료|~ 이래로 쭉
+so far|현재완료|지금까지
+recently|현재완료|최근에
+lately|현재완료|최근에
+
+@list 5-8|전치사 vs 접속사 vs 접속부사|cat|이 단어의 품사는?|전치사;접속사;접속부사;전치사/접속사 둘 다
+during|전치사|~ 동안
+while|접속사|~ 동안, ~인 반면에
+before|전치사/접속사 둘 다|~ 전에
+prior to|전치사|~ 전에
+after|전치사/접속사 둘 다|~ 후에
+following|전치사|~ 후에
+until|전치사/접속사 둘 다|~까지
+by|전치사|~까지 (1회성)
+as soon as|접속사|~하자마자
+on / upon|전치사|~하자마자, ~ 즉시
+because|접속사|~ 때문에
+because of|전치사|~ 때문에
+due to|전치사|~ 때문에
+owing to|전치사|~ 때문에
+as|전치사/접속사 둘 다|~ 때문에 / ~로서
+now that|접속사|~이니까
+despite|전치사|~에도 불구하고
+in spite of|전치사|~에도 불구하고
+notwithstanding|전치사|~에도 불구하고
+although|접속사|~에도 불구하고
+though|접속사|~에도 불구하고
+even though|접속사|~에도 불구하고
+in case of|전치사|~의 경우에
+in case (that)|접속사|~의 경우에
+given|전치사/접속사 둘 다|~을 고려하면 (given that)
+unless|접속사|~하지 않는다면
+if|접속사|~라면
+provided (that)|접속사|~라면
+so that|접속사|~할 수 있도록
+in order that|접속사|~할 수 있도록
+whereas|접속사|~인 반면에
+however|접속부사|그러나
+therefore|접속부사|그러므로
+thus|접속부사|그러므로
+consequently|접속부사|그러므로
+otherwise|접속부사|그렇지 않으면
+nevertheless|접속부사|그럼에도 불구하고
+in addition|접속부사|게다가
+besides|접속부사|게다가
+moreover|접속부사|게다가
+furthermore|접속부사|게다가
+meanwhile|접속부사|그동안
+in the meantime|접속부사|그동안
+likewise|접속부사|마찬가지로
+similarly|접속부사|마찬가지로
+instead|접속부사|대신에
+in other words|접속부사|즉, 다시 말해
+namely|접속부사|즉
+
+@list 5-8|by / until / for / during 구분|cat|빈칸에 들어갈 말은?|by;until;for;during
+특정 시점까지 한 번 완료 (제출, 반납)|by|~까지 (1회성)
+특정 시점까지 상태·행동이 계속|until|~까지 (지속)
+for + 기간 (for three months)|for|~ 동안
+during + 특정 명사 (during the workshop)|during|~ 동안
+
+@list 5-9|관계대명사: 선행사에 맞는 관계대명사|cat|빈칸에 알맞은 관계대명사는?|who;whose;whom;which;what
+사람 + 주격 + 동사|who|사람 선행사의 주어 자리
+사람 + 소유격 + 명사|whose|~의
+사람 + 목적격 + 주어 + 동사|whom|사람 선행사의 목적어
+사물 + 주격 + 동사|which|사물 선행사의 주어
+사물 + 목적격 + 주어 + 동사|which|사물 선행사의 목적어
+선행사 없음, the thing(s) that|what|~하는 것
+
+@list 5-5|타동사 (전치사 없이 바로 목적어를 받는 동사)|trans
+discuss|~에 대해 논의하다
+mention|~을 언급하다
+attend|~에 참석하다
+reach|~에 도달하다
+enter|~에 들어가다
+join|~에 합류하다
+contact|~에게 연락하다
+answer|~에 답하다
+approach|~에 접근하다
+resemble|~을 닮다
+
+@list 5-1|품사 구분: 어미를 보고 품사 판단하기|cat|이 단어의 품사는?|명사;동사;형용사;부사
+organization (-tion)|명사|조직, 단체
+conclusion (-sion)|명사|결론
+movement (-ment)|명사|움직임, 이동
+teacher (-er)|명사|교사
+director (-or)|명사|감독, 책임자
+pianist (-st)|명사|피아니스트
+employee (-ee)|명사|직원
+growth (-th)|명사|성장
+closure (-ure)|명사|폐쇄
+attendance (-ance)|명사|참석
+effectiveness (-ness)|명사|효과, 유효성
+ability (-ty)|명사|능력
+efficiency (-cy)|명사|효율성
+professionalism (-sm)|명사|전문성
+grateful (-ful)|형용사|감사하는
+dangerous (-ous)|형용사|위험한
+official (-al)|형용사|공식적인
+temporary (-ary)|형용사|임시의
+reliant (-ant)|형용사|의존하는
+useless (-less)|형용사|쓸모없는
+innovative (-ive)|형용사|혁신적인
+mandatory (-ory)|형용사|의무적인
+reliable (-able)|형용사|믿을 수 있는
+efficient (-ent)|형용사|효율적인
+organize (-ize)|동사|조직하다
+simplify (-ify)|동사|단순화하다
+strengthen (-en)|동사|강화하다
+activate (-ate)|동사|활성화하다
+quickly (-ly)|부사|빠르게
+carefully (-ly)|부사|신중하게
+efficiently (-ly)|부사|효율적으로
+recently (-ly)|부사|최근에
+
+@list 5-2|숫자 앞에서 숫자를 꾸밀 수 있는 부사|cat|50 (숫자) 앞에 놓아 꾸밀 수 있을까?|숫자 앞에 쓸 수 있다;숫자 앞에 쓸 수 없다
+approximately|숫자 앞에 쓸 수 있다|숫자 수식
+roughly|숫자 앞에 쓸 수 있다|숫자 수식
+nearly|숫자 앞에 쓸 수 있다|숫자 수식
+about|숫자 앞에 쓸 수 있다|숫자 수식
+around|숫자 앞에 쓸 수 있다|숫자 수식
+up to|숫자 앞에 쓸 수 있다|숫자 수식
+at least|숫자 앞에 쓸 수 있다|숫자 수식
+exactly|숫자 앞에 쓸 수 있다|숫자 수식
+just|숫자 앞에 쓸 수 있다|숫자 수식
+only|숫자 앞에 쓸 수 있다|숫자 수식
+more than|숫자 앞에 쓸 수 있다|숫자 수식
+less than|숫자 앞에 쓸 수 있다|숫자 수식
+over|숫자 앞에 쓸 수 있다|숫자 수식
+recently|숫자 앞에 쓸 수 없다|시제 부사
+previously|숫자 앞에 쓸 수 없다|시제 부사
+formerly|숫자 앞에 쓸 수 없다|시제 부사
+once|숫자 앞에 쓸 수 없다|시제 부사
+regularly|숫자 앞에 쓸 수 없다|시제 부사
+soon|숫자 앞에 쓸 수 없다|시제 부사
+shortly|숫자 앞에 쓸 수 없다|시제 부사
+currently|숫자 앞에 쓸 수 없다|시제 부사
+now|숫자 앞에 쓸 수 없다|시제 부사
+typically|숫자 앞에 쓸 수 없다|시제 부사
+
+@list 5-4|시간·조건 부사절 접속사: 미래를 나타낼 때 쓰는 동사 시제|cat|이 접속사가 이끄는 절에서 미래의 일을 나타내면?|미래 대신 현재 시제;미래 시제 그대로 가능
+when|미래 대신 현재 시제|시간·조건 부사절
+while|미래 대신 현재 시제|시간·조건 부사절
+before|미래 대신 현재 시제|시간·조건 부사절
+after|미래 대신 현재 시제|시간·조건 부사절
+until|미래 대신 현재 시제|시간·조건 부사절
+as soon as|미래 대신 현재 시제|시간·조건 부사절
+if|미래 대신 현재 시제|시간·조건 부사절
+unless|미래 대신 현재 시제|시간·조건 부사절
+once|미래 대신 현재 시제|시간·조건 부사절
+because|미래 시제 그대로 가능|이유·양보 등
+although|미래 시제 그대로 가능|이유·양보 등
+that|미래 시제 그대로 가능|이유·양보 등
+whereas|미래 시제 그대로 가능|이유·양보 등
+
+@list 5-6|뒤에 to + 동사원형? 동사-ing? (표현별로 외우기)|cat|이 표현 뒤에 오는 동사 형태는?|to + 동사원형;동사-ing
+time|to + 동사원형|~할 시간
+right|to + 동사원형|~할 권리
+need|to + 동사원형|~할 필요성
+proposal|to + 동사원형|~하자는 제안
+intention/plan|to + 동사원형|~할 의도/계획
+ability/capability|to + 동사원형|~할 능력
+way|to + 동사원형|~할 방법
+failure|to + 동사원형|~하는 데 실패/오류
+decision|to + 동사원형|~하겠다는 결정
+obligation|to + 동사원형|~할 의무
+effort|to + 동사원형|~하려는 노력
+opportunity/chance|to + 동사원형|~할 기회
+be able|to + 동사원형|~할 수 있다
+be willing|to + 동사원형|기꺼이 ~하다
+be reluctant|to + 동사원형|~하기를 꺼려하다
+be hesitant|to + 동사원형|~하기를 주저하다
+be eligible|to + 동사원형|~할 자격이 되다
+be intended|to + 동사원형|~할 의도이다
+be designed|to + 동사원형|~하도록 제작되다
+be meant|to + 동사원형|~하도록 의도되다
+be supposed|to + 동사원형|~하기로 되어 있다
+be scheduled|to + 동사원형|~하기로 예정되다
+be delighted|to + 동사원형|~해서 기쁘다
+be pleased|to + 동사원형|~해서 기쁘다
+be about|to + 동사원형|막 ~하려던 참이다
+be due|to + 동사원형|~할 예정이다
+be ready|to + 동사원형|~할 준비가 되다
+be eager|to + 동사원형|~하기를 갈망하다
+be expected|to + 동사원형|~하기로 기대되다, ~해야 한다
+be likely|to + 동사원형|~할 것 같다
+spend 시간/돈|동사-ing|~하는 데 시간/돈을 소비하다
+have trouble/a problem|동사-ing|~하는 것에 어려움/문제점이 있다
+have experience|동사-ing|~하는 데 경험이 있다
+be committed/dedicated to|동사-ing|~에 전념/헌신하다
+be accustomed to|동사-ing|~하는 데 익숙하다
+look forward to|동사-ing|~하기를 학수고대하다
+be busy|동사-ing|~하느라 바쁘다
+feel like|동사-ing|~하고 싶다
+by|동사-ing|~함으로써
+in|동사-ing|~하는 데 있어
+on/upon|동사-ing|~하자마자
+before|동사-ing|~ 전에
+prior to|동사-ing|~ 전에
+after|동사-ing|~ 후에
+despite|동사-ing|~에도 불구하고
+instead of|동사-ing|~ 대신에
+without|동사-ing|~ 없이
+besides|동사-ing|~ 외에
+in addition to|동사-ing|~뿐 아니라
+
+@list 5-8|문장 속 알맞은 전치사 고르기 (자주 나오는 전치사)|fill|빈칸에 알맞은 전치사는?
+Every day ( ___ ) Sunday, the shop opens at nine.|except|against;within;as|except (for) : ~을 제외하고
+The cashier cannot refund items ( ___ ) the receipt.|without|against;across;throughout|without : ~ 없이
+We walked ( ___ ) the tunnel to reach the other side.|through|regarding;despite;as|through : ~을 통해, ~을 지나
+She works ( ___ ) a manager at the bank.|as|through;across;following|as : ~로서
+( ___ ) the reception, guests were invited to dinner.|following|against;through;as|following : ~ 후에
+A new bridge ( ___ ) the river was built last year.|across|despite;regarding;as|across : ~을 가로질러
+Please send information ( ___ ) the test.|regarding|against;across;without|regarding : ~에 관한 (= concerning, as to)
+The game continued ( ___ ) the bad weather.|despite|regarding;within;across|despite : ~에도 불구하고 (= in spite of)
+The package will arrive ( ___ ) two weeks.|within|despite;except;against|within : ~ 이내에
+Wi-Fi is available ( ___ ) the building.|throughout|as;despite;following|throughout : ~ 곳곳에, ~ 내내
+I'd like a room ( ___ ) a balcony.|with|regarding;despite;following|with : ~을 가진, ~와 함께
+The ladder is leaning ( ___ ) the wall.|against|across;within;despite|against : ~에 기대어, ~에 반대하여
+
+@list 5-8|문장 속 알맞은 전치사 고르기 (두 단어 이상 전치사)|fill|빈칸에 알맞은 전치사는?
+Please submit the form ( ___ ) the deadline.|prior to|instead of;in addition to;regardless of|prior to : ~ 전에
+( ___ ) the discount, customers will also receive a free gift.|In addition to|Regardless of;On behalf of;Prior to|in addition to : ~ 이외에
+He accepted the award ( ___ ) the whole team.|on behalf of|regardless of;prior to;in case of|on behalf of : ~을 대표하여
+The event will be held ( ___ ) the weather.|regardless of|on behalf of;in addition to;prior to|regardless of : ~와 상관없이
+She chose the red one ( ___ ) the blue one.|instead of|due to;prior to;regardless of|instead of : ~ 대신에
+( ___ ) a fire, use the stairs.|In case of|Instead of;Thanks to;Prior to|in case of : ~의 경우에
+The project succeeded ( ___ ) everyone's hard work.|thanks to|instead of;regardless of;prior to|thanks to : ~ 덕분에
+The flight was delayed ( ___ ) heavy snow.|due to|regardless of;in addition to;instead of|due to : ~ 때문에 (= because of, owing to)
+
+@list 5-8|문장 속 알맞은 접속부사 고르기|fill|빈칸에 알맞은 접속부사는?
+Sales fell sharply. ( ___ ), the company decided to cut costs.|Therefore|However;Otherwise;Meanwhile|therefore/thus/consequently : 그러므로
+The plan is risky. ( ___ ), it could bring huge profits.|However|Therefore;Likewise;Namely|however : 그러나
+Please back up your files. ( ___ ), you may lose them.|Otherwise|Moreover;Likewise;Namely|otherwise : 그렇지 않으면
+The software is fast. ( ___ ), it is easy to use.|Moreover|Otherwise;However;Therefore|in addition/besides/moreover/furthermore : 게다가
+Mr. Kim is preparing the report. ( ___ ), Ms. Lee is booking the venue.|Meanwhile|Otherwise;Nevertheless;Namely|meanwhile/in the meantime : 그동안
+The road was closed. ( ___ ), the drivers arrived on time.|Nevertheless|Therefore;Moreover;Otherwise|nevertheless : 그럼에도 불구하고
+We will hire three people. ( ___ ), two analysts and one designer.|Namely|However;Otherwise;Meanwhile|namely/in other words : 즉, 다시 말해
+Mr. Park likes hiking. ( ___ ), his wife prefers swimming.|On the other hand|Therefore;Moreover;Otherwise|on the other hand : 반면에
+
+@list 5-8|상관접속사 짝 맞추기|fill|빈칸에 알맞은 말은?
+both A ( ___ ) B|and|or;nor;but also|both A and B : A와 B 둘 다
+either A ( ___ ) B|or|and;nor;but also|either A or B : A와 B 중 하나
+neither A ( ___ ) B|nor|and;or;but also|neither A nor B : A도 B도 아닌
+not only A ( ___ ) B|but also|and;or;nor|not only A but (also) B = B as well as A : A뿐만 아니라 B도

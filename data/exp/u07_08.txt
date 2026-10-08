@@ -1,0 +1,82 @@
+# 유닛 5-7 (분사), 5-8 (전치사/접속사)
+5-7:practice-A:1|사람의 자질·자격을 나타낼 때는 p.p. 형태이므로 qualified가 맞다. (qualified 자질이 뛰어난)
+5-7:practice-A:2|working environment를 꾸미는 형용사 자리. pleased는 기분을 느끼는 사람을 꾸미므로 pleasant(유쾌한)가 맞다.
+5-7:practice-A:3|leading은 '일류의'라는 뜻으로 형용사 자리에서는 항상 현재분사 형태로 쓴다.
+5-7:practice-A:4|grow는 '증가하는, 늘어나는'이라는 의미의 growing 형태로 잘 쓰인다.
+5-7:practice-A:5|명사 앞 -ing/p.p. 모두 가능하지만 일정표는 스스로 업데이트하는 게 아니라 '업데이트되는' 것이므로 updated.
+5-7:practice-A:6|reward는 '보람 있는'이라는 의미의 rewarding 형태를 주로 쓴다.
+5-7:practice-A:7|물건 등이 분실되면 missing, 뒤 명사가 item(물품)이므로 missing이 정답이다.
+5-7:practice-A:8|distinguished가 되어야만 '화려한 경력'이라는 의미가 된다. 따로 외워 두자.
+5-7:practice-A:9|사람을 꾸밀 때 경험이 많거나 기술에 노련하면 주로 p.p. 형태(seasoned)를 쓴다.
+5-7:practice-A:10|a 뒤 명사 앞 형용사 중 '광범위한'보다 '연장된' 마감기한이 어울리므로 extended. 예외적으로 알아 두어야 한다.
+5-7:practice-A:11|emerge는 기본적으로 수동 형태를 싫어하는 자동사이므로 emerging을 고른다.
+5-7:practice-A:12|shock은 '감정'이므로 감정 분사에서 사람을 꾸미면 p.p., 사물을 꾸미면 -ing이다. news는 사물이므로 shocking.
+5-7:practice-A:13|선호되는 수단이므로 preferred. preferring은 보통 동사·명사로 쓰이며 형용사로는 쓰이지 않는다.
+5-7:practice-A:14|p.p.도 명사를 꾸미지만 수업을 수식하기에는 형용사 introductory(입문자를 위한)가 적절하다.
+5-7:practice-A:15|수동 형태를 싫어하는 자동사 remain은 형용사 자리에서 능동형 -ing(remaining)를 선택해야 한다.
+5-7:practice-B:1|명사 window를 꾸미는 broken(깨진, 망가진)이 맞고, needs to be repaired의 수동형도 맞는 문장이다.
+5-7:practice-B:2|주어 She의 감정(놀란)은 p.p.가 되어야 하므로 amazing이 아니라 amazed로 고쳐야 한다.
+5-7:practice-B:3|news(사물)를 수식하므로 exciting이 맞다. made는 5형식(목적어+형용사 보충어) 구조로 맞는 문장이다.
+5-7:practice-B:4|영작 순서상 p.p.는 뒤에 딸린 어구 없이 단독으로 쓰일 때 명사 앞에서 수식하는 것이 자연스러우므로 The painted wall이 맞다.
+5-7:practice-B:5|주어 I의 감정이므로 p.p. relieved가 맞고, after 뒤에 동명사 finishing이 쓰인 맞는 문장이다.
+5-7:practice-B:6|was가 두 번 나와 접속사 없이 동사가 두 개이므로 틀린 문장이다. 앞의 was를 지워야 한다(p.p.+전치사 형태).
+5-7:practice-B:7|moved는 '옮겨진', moving은 '감동을 주는'이므로 speech를 수식하는 어휘는 moving이다.
+5-7:practice-B:8|informed는 '정보를 가진, 잘 아는'이고 수업 등이 '유익한'이라는 뜻은 informative이므로 고쳐야 한다.
+5-7:practice-B:9|분사구문은 접속사 while 뒤에 주어 없이 동사만 쓸 수 없으므로 While studying으로 -ing 형태가 되어야 한다.
+5-7:practice-B:10|An event를 뒤에서 꾸미는 inviting(-ing)이 목적어 all residents와 함께 쓰였고 수동 동사 will be held로 이어지는 맞는 문장이다.
+5-7:actual:1|the ----- 명사(instructions) 사이 형용사 자리. 지침은 사람에 의해 '작성된' 것이므로 p.p. 형태인 written이 정답이다.
+5-7:actual:2|명사 stories를 꾸미는 형용사 자리. encouraged는 사람을 꾸미고 committed는 be committed to -ing로 쓰이므로 오답. '매력적인' captivating이 정답이다.
+5-7:actual:3|콤마 뒤에 주어 we와 동사 arrived가 있으므로 앞은 접속사 없는 분사구문이다. 주어 we가 감정을 느끼므로 p.p. Excited가 정답이다.
+5-7:actual:4|접속사 없이 동사가 또 올 수 없으므로 분사구문. 성(castle)은 '지어진'이므로 p.p. Built가 정답이다.
+5-7:actual:5|spend + 목적어 + -ing 구문이다. 목적어 hours가 있으므로 능동 -ing를 써서 solving이 정답이다.
+5-7:actual:6|received 뒤 work를 수식하는 형용사 자리. 작품이 '인상적인'이므로 impressive가 자연스럽다.
+5-7:actual:7|restructuring 앞에 오는 명사로 '조직적인 구조 조정'이라는 형용사 organizational이 쓰이는 어휘 덩어리라 정답은 organizational이다. 정확한 형용사를 눈여겨볼 것.
+5-7:actual:8|브로셔(brochure)는 '인쇄된' 것이고 뒤에 전치사 for가 오므로 수동 p.p. printed가 뒤에서 brochure를 꾸민다.
+5-7:actual:9|operating costs(운영 비용)는 하나의 연어 표현이므로 operating이 정답이다.
+5-7:actual:10|the ----- 명사 사이 형용사 자리로 competing entry(경쟁 출품작)가 자연스럽다. compete는 자동사라 p.p.를 쓰지 않는다. competing을 외워 두자.
+5-7:actual:11|동사 is making과 명사 progress 사이에서 progress를 꾸미는 형용사 자리. '가치 있는' valuable이 정답이다.
+5-7:actual:12|The Eagle Room 뒤에는 동사가 필요하고 주어가 단수이므로 단수 동사 seats가 정답이다. 콤마 사이 부분은 삽입 구조로 본다.
+5-7:actual:13|in 뒤 전치사의 목적어로 동명사가 오고, 목적어 guest satisfaction이 있으므로 능동 -ing인 determining이 정답이다. determined는 형용사로 '단호한'.
+5-7:actual:14|materials 뒤에 접속사 없이 동사를 또 쓸 수 없고 calculation은 명사이므로 오답이다. When이 생략되지 않은 접속사 뒤 분사구문 calculating construction costs가 되어 정답이다.
+5-7:actual:15|a ----- discount 사이는 형용사 자리이며 partial(부분적인)이 '부분 할인'이라는 뜻으로 가장 자연스럽다.
+5-7:actual:16|a ----- manufacturer 사이는 형용사 자리. 회사를 꾸밀 때 '일류 회사, 잘나가는 회사'를 의미하는 leading이 정답이다.
+5-7:actual:17|deadline이 명사이므로 앞 빈칸에는 형용사가 올 수 없고, registration deadline(등록 마감기한)이라는 복합명사로 쓰인다.
+5-7:actual:18|동사 advances, are embracing이 이미 있으므로 빈칸에 동사를 또 쓸 수 없다(A, B 오답). 콤마 뒤 접속사 없는 분사구문이므로 -ing 형태인 preferring이 정답이다. (embrace 받아들이다)
+5-7:actual:19|be동사 뒤 보어로 형용사가 필요하다. differ는 자동사이므로 differed, differing은 오답이고 '다른' different가 정답이다.
+5-7:actual:20|job satisfaction(직무 만족도)은 자주 쓰이는 복합명사이다. satisfied는 p.p., satisfying 등은 job 뒤 목적어가 없으므로 오답이고 satisfaction이 정답이다.
+5-8:practice-A:1|for와 during 둘 다 '~동안'이지만 숫자가 들어간 기간(10 hours) 앞에는 for를 쓴다.
+5-8:practice-A:2|전치사 뒤에 the seminar라는 특정 행사가 오므로 during이 정답이다.
+5-8:practice-A:3|by와 until 모두 '~까지'이지만 영업하는 것이 계속되는 상황이므로 until(계속의 의미)이 정답이다.
+5-8:practice-A:4|반납이라는 일회성 동작의 기한(this Tuesday까지)을 말하므로 by가 정답이다. until은 지속에 쓴다.
+5-8:practice-B:1|뒤에 주어(Ms. Bain)와 동사(gives)가 나오므로 접속사이다.
+5-8:practice-B:2|뒤에 the+명사(deadline)가 나왔으므로 전치사이다.
+5-8:practice-B:3|뒤에 주어(the handouts)와 동사(arrived)가 나왔으므로 접속사이다.
+5-8:practice-B:4|뒤에 소유격(its)+명사(popularity)가 나왔으므로 전치사이다.
+5-8:practice-B:5|괄호 뒤가 June 8 같은 명사구이고 뒤에 will be charged라는 동사가 따로 있으므로 전치사이다.
+5-8:practice-B:6|괄호 뒤에 the+명사(success)가 이어지므로 전치사이다.
+5-8:practice-B:7|뒤에 주어(you)와 동사(place)가 나왔으므로 접속사이다.
+5-8:practice-B:8|콤마 뒤까지의 구조를 보면 high + operating costs 형용사+명사구가 나오므로 전치사이다.
+5-8:practice-C:1|뒤에 명사구(low registration)가 오므로 접속사 because가 아니라 전치사 due to가 정답이다.
+5-8:practice-C:2|during은 전치사, while은 접속사. 뒤에 분사(eating)가 와도 주어를 생략한 분사구문으로 쓸 수 있는 접속사 while이 정답이다.
+5-8:practice-C:3|뒤에 명사구(fierce competition)가 이어지므로 전치사 Despite가 정답이다.
+5-8:practice-C:4|until은 ~까지 계속, by는 ~까지 완료. 결정을 미루는 상태가 계속되므로 until이 정답이다.
+5-8:actual:1|빈칸 뒤 문장(the temperature and humidity are ...)이 주어+동사를 갖춘 완전한 절이므로 접속사 자리이다. 문맥상 '만약 ~라면'의 If가 정답이다.
+5-8:actual:2|a week은 기간이므로 within(~ 이내에)이 정답이다. 전치사 within은 기간 앞에서 '~ 이내에'라는 뜻이다.
+5-8:actual:3|두 절을 연결하는 접속사 자리이고 문맥상 '~에도 불구하고'의 양보 접속사 Although가 정답이다.
+5-8:actual:4|뒤에 it is received라는 절이 오므로 접속사 자리이다. '~하자마자' 제품 상태를 확인하라는 의미의 as soon as 계열 접속사 D가 정답이다.
+5-8:actual:5|빈칸 뒤에 a+명사(cancellation)만 나오고 동사가 없으므로 전치사 자리이다. '~ 덕분에'라는 의미의 thanks to가 정답이다.
+5-8:actual:6|전치사 뒤에 동명사(shopping)가 오는 구조이다. '~ 대신에'라는 의미의 instead of가 정답이다.
+5-8:actual:7|보기 대부분이 전치사로 구성된 어휘 문제이다. 해안을 따라 운행하므로 along(~을 따라)이 정답이다.
+5-8:actual:8|빈칸 뒤 repairs(수리)가 명사이므로 전치사 자리이다. 긴급 수리 때문에 주차가 금지되므로 due to(~ 때문에)가 정답이다.
+5-8:actual:9|not only A but also B 구문이다. 상관접속사 but also가 정답이다.
+5-8:actual:10|빈칸 뒤에 주어(the Spinello Motors plant)+동사(opens)가 오므로 접속사 자리이다. 문맥상 '공장이 문을 열면' 취업 기회가 늘어난다는 의미의 When이 정답이다.
+5-8:actual:11|As indicated(명시된 대로, 언급된 대로) 형태의 접속사+p.p. 구문이다. 정답은 indicated이다.
+5-8:actual:12|빈칸 뒤에 절(our sales volume remains steady)이 이어지므로 접속사 자리이다. '~하는 한'의 as long as가 정답이다.
+5-8:actual:13|뒤에 명사(use)가 이어지는 전치사 자리이다. 문맥상 '살충제 사용 없이'라는 의미의 without이 정답이다.
+5-8:actual:14|빈칸 뒤에 -ing(leaving)가 있으므로 전치사 자리이다. '퇴근하기 전에' 일일 업무일지를 제출하라는 의미이므로 before가 정답이다.
+5-8:actual:15|뒤에 복수명사(manufacturers)가 오므로 among(~ 중에서)이 정답이다. be among + 복수명사 구문을 외워 둘 것.
+5-8:actual:16|빈칸 뒤에 a+명사(system breakdown)가 나오므로 전치사 자리이다. '~의 경우에는' event of가 정답이다.
+5-8:actual:17|빈칸 뒤에 명사구가 있으므로 전치사 자리이며 in time for(~에 맞춰)가 정답이다.
+5-8:actual:18|빈칸 뒤에 the recent failure라는 명사구가 오므로 전치사 자리이다. '~에도 불구하고'의 Despite가 정답이다.
+5-8:actual:19|빈칸 앞은 완전한 절이므로 접속사 자리이다. during은 전치사, likewise는 부사, which는 선행사가 필요해 오답이고 문맥상 '~하지 않는 한'의 unless가 정답이다.
+5-8:actual:20|동명사(-ing)와 잘 쓰이는 전치사 upon -ing(~하자마자)이 문맥상 자연스러우므로 Upon이 정답이다.

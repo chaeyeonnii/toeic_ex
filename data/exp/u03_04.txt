@@ -1,0 +1,83 @@
+# 유닛 5-3, 5-4 해설 (정답과 해설 PDF 요약)
+5-3:practice-A:1|조동사 will 뒤에는 동사원형이 와야 하므로 dominated가 아니라 dominate여야 한다. 따라서 가짜 동사.
+5-3:practice-A:2|동사는 -ing나 to로 시작할 수 없으므로 being attended는 가짜 동사.
+5-3:practice-A:3|be동사 are 뒤에 follow의 -ing가 온 현재진행형으로, 진짜 동사.
+5-3:practice-A:4|동사는 -ing나 to로 시작할 수 없으므로 to be hosted는 가짜 동사.
+5-3:practice-A:5|조동사 should 뒤에 동사원형 ask가 온 진짜 동사.
+5-3:practice-A:6|be동사 are 뒤에 manage의 p.p.가 온 수동태로, 진짜 동사.
+5-3:practice-A:7|조동사 should 뒤에 동사원형 attend가 온 진짜 동사. not은 부정을 나타낼 뿐 구조에는 영향을 주지 않는다.
+5-3:practice-A:8|동사는 -ing나 to로 시작할 수 없으므로 having selected는 가짜 동사.
+5-3:practice-B:1|주어 They가 복수이므로 복수동사 attend가 알맞다.
+5-3:practice-B:2|주어 The interns가 복수이므로 복수 be동사 were가 알맞다. was는 단수 주어와 쓴다.
+5-3:practice-B:3|회사·단체·사람 이름 등의 고유명사는 뒤에 -s가 붙었다고 복수로 보면 안 된다. African Airways는 항공사 이름으로 단수 취급하므로 takes가 알맞다.
+5-3:practice-B:4|everyone은 '모든 사람'이지만 단수 취급하므로 has expressed가 알맞다.
+5-3:practice-B:5|바로 앞 복수명사 procedures에 속지 말 것. Following safety procedures는 동명사구 주어로 단수 취급하므로 helps가 알맞다.
+5-3:practice-B:6|전치사 in에 걸리는 단수명사 quarter는 주어가 아니다. 복수명사 profits가 주어이므로 복수 be동사 were가 알맞다.
+5-3:practice-B:7|2인칭 주어 you는 단수여도 일반동사 현재형이 올 때 동사원형을 쓰므로 manage가 알맞다.
+5-3:practice-B:8|뒤에 동사가 are sponsored로 복수이므로 주어도 복수여야 한다. 복수명사 Artists가 알맞다.
+5-3:practice-B:9|고유명사 Dela Industries는 단수 취급하므로 is seeking이 알맞다. (experienced 경력 있는, accountant 회계사)
+5-3:practice-B:10|조동사 should 뒤에는 동사원형이 와야 하므로 be sent가 알맞다.
+5-3:practice-B:11|offer와 provide 모두 '제공하다'이지만, 뒤에 customers와 a variety of services로 목적어가 2개이므로 4형식이 가능한 offer(offers)가 알맞다.
+5-3:practice-B:12|keep은 5형식 동사로 keep+목적어+목적격 보어(형용사) 구조를 이끌므로 형용사 secure가 알맞다. 부사 securely를 고르지 않도록 주의.
+5-3:practice-B:13|remain은 2형식 동사로 뒤에 기본적으로 형용사가 와야 하므로 competitive가 알맞다.
+5-3:actual:1|주어 Sowa College 뒤에 동사가 없으므로 동사 자리이다. 보기 중 동사가 될 수 있는 것은 동사원형 publish에 -es를 붙인 publishes이다.
+5-3:actual:2|that 이하 절은 주어 they, 동사 found, 목적어 it으로 완벽하므로 부사 easily는 오답. find+목적어+목적격 보어 구조(5형식)이므로 형용사 easy가 알맞다.
+5-3:actual:3|who 뒤 동사 자리이며 선행사 anyone이 단수이므로 관계대명사절의 동사도 단수동사 purchases가 알맞다.
+5-3:actual:4|문장에 동사가 없는 동사 자리 문제이다. -ing나 to로 시작하는 형태는 동사가 될 수 없고, 과거시제 -ed형인 exceeded만 가능하다.
+5-3:actual:5|주어 Ms. Guilford 뒤 동사 자리로 -ing나 to 형태는 오답. 주어가 단수이므로 answer는 안 되고, 주어의 수와 무관한 미래 조동사 will이 쓰인 will answer가 알맞다.
+5-3:actual:6|조동사 can 뒤에는 동사원형이 와야 하므로 focus가 알맞다.
+5-3:actual:7|note that은 '~을 언급하다'로 that 뒤에도 주어와 동사가 필요하다. 빈칸은 that절의 동사 자리이므로 동사 형태인 should keep이 알맞다.
+5-3:actual:8|뒤의 형용사 unchanged가 단서이다. 형용사를 바로 취하는 2형식 동사는 remain뿐이다. retain, persist, sustain은 뒤에 형용사를 바로 취할 수 없다.
+5-3:actual:9|문장에 동사가 없으므로 동사 자리이다. 주어가 복수명사 Employees이므로 복수 수동태 are expected가 알맞다. be expected to+동사원형은 '~해야 한다'는 뜻이다.
+5-3:actual:10|주어 Ms. Welsh 뒤 동사 자리이다. 3인칭 단수 현재 identifies는 맥락상 맞지 않고, 과거시제 identified가 알맞다. (identify 확인하다)
+5-3:actual:11|고유명사 YouFit과 명사 a sportswear store가 동격으로 주어이고 빈칸은 동사 자리이다. -ing나 to로 시작하는 형태는 오답이므로 will provide가 유일하다.
+5-3:actual:12|is 뒤 일반동사 consider의 구조 문제이다. be동사 뒤 일반동사는 진행형이나 수동태가 가능한데, 빈칸 뒤에 목적어 a package redesign이 있으므로 능동 진행형 considering이 알맞다.
+5-3:actual:13|빈칸 뒤에 사람 목적어 participants와 사물 목적어 free admission이 이어지므로 4형식 동사가 필요하다. 보기 중 목적어 2개를 취할 수 있는 동사는 offer뿐이다.
+5-3:actual:14|who 관계대명사절의 수식을 받는 주어 All technicians가 복수이므로 동사는 복수형 need가 알맞다. 주어와 동사 사이가 멀 때 수일치에 주의.
+5-3:actual:15|동사 형태가 아닌 -ing, to 형태와 who+동사 구조는 오답이다. 문장의 유일한 동사 형태인 have agreed가 알맞다.
+5-3:actual:16|주어는 바로 앞의 schedule이 아니라 전치사구 in the schedule의 수식을 받는 복수명사 changes이다. 따라서 복수 동사 resulted(result in ~한 결과를 낳다)가 알맞다.
+5-3:actual:17|주어 Ashley Park 뒤 동사 자리이다. 명사 analysis, analyst와 동사가 될 수 없는 형태는 오답이고 유일한 동사 analyzes가 알맞다.
+5-3:actual:18|조동사 will 뒤에는 동사원형이 와야 한다. no longer는 부사로 구조에 영향이 없으므로 동사원형 transport가 알맞다.
+5-3:actual:19|빈칸 뒤 목적어 the proposal과 형용사 unacceptable로 보아 5형식 구조이다. 목적어와 목적격 보어를 취하는 5형식 동사는 consider이다. regard는 as가 필요하고 evaluate, judge는 어울리지 않는다.
+5-3:actual:20|because가 이끄는 절의 동사 자리이다. 주어 it이 3인칭 단수이므로 features가 알맞고, 앞 동사 is attracting으로 보아 현재시제가 어울린다.
+5-4:practice-A:1|뒤에 the conference라는 목적어가 있으므로 능동태가 정답이다.
+5-4:practice-A:2|the end는 전치사 by에 걸리는 명사일 뿐 목적어가 아니므로, 목적어가 없어 수동태가 정답이다.
+5-4:practice-A:3|뒤에 소유격 its+명사 store hours라는 목적어가 있으므로 능동태가 정답이다.
+5-4:practice-A:4|뒤에 목적어 없이 전치사 until이 이어지므로 수동태가 정답이다.
+5-4:practice-A:5|뒤에 a party라는 목적어가 있으므로 능동태가 정답이다.
+5-4:practice-A:6|뒤에 목적어 없이 부사 frequently와 전치사 by가 이어지므로 수동태가 정답이다.
+5-4:practice-A:7|뒤에 목적어 없이 전치사구 due to ~ conditions가 이어지므로 수동태가 정답이다.
+5-4:practice-A:8|this month는 시간을 나타내는 부사일 뿐 목적어가 아니고 later도 부사이므로, 목적어가 없어 수동태가 정답이다.
+5-4:practice-B:1|뒤에 목적어 없이 전치사 in이 이어지므로 수동태여야 한다. will be producing은 능동태이므로 틀린 문장이다.
+5-4:practice-B:2|4형식 수동태이다. 뒤에 the report라는 목적어가 있어 틀려 보이지만, give는 4형식 동사로 주어가 사람일 때 목적어가 있어도 수동태로 쓸 수 있어 맞는 문장이다.
+5-4:practice-B:3|뒤에 the panel discussion이라는 목적어가 있으므로 능동태여야 한다. was hosted는 수동태이므로 틀린 문장이다.
+5-4:practice-B:4|뒤에 목적어 없이 전치사 in이 이어지므로 수동태여야 하고, are being published는 진행형 수동태로 맞는 문장이다.
+5-4:practice-B:5|뒤에 목적어 없이 전치사 for가 이어지므로 수동태가 되어야 하고, not은 구조에 영향이 없다. was not made는 수동태이므로 맞는 문장이다.
+5-4:practice-B:6|뒤에 a revised copy라는 목적어가 있으므로 능동태여야 한다. has been enclosed는 완료형 수동태이므로 틀린 문장이다.
+5-4:practice-B:7|뒤에 목적어 없이 전치사 in이 이어지므로 수동태가 쓰여야 한다. is located는 수동태이므로 맞는 문장이다.
+5-4:practice-B:8|뒤에 the lane이라는 목적어가 있으므로 능동태여야 한다. will be closed는 수동태이므로 틀린 문장이다.
+5-4:practice-C:1|last month라는 과거 시간 표현이 있으므로 과거시제 joined가 쓰인 맞는 문장이다.
+5-4:practice-C:2|tomorrow afternoon이라는 미래 시간 표현이 있으므로 made(과거)가 아니라 will make가 되어야 한다.
+5-4:practice-C:3|since last March는 과거부터 현재까지를 나타내므로 will work(미래)가 아니라 현재완료 have worked가 되어야 한다.
+5-4:practice-C:4|By the time이 이끄는 절의 동사가 현재시제 graduates이므로, 주절은 미래완료 will already have secured가 되어야 한다. 과거완료 had secured는 틀리다.
+5-4:practice-C:5|시간을 나타내는 부사절(when ~)에서는 현재시제가 미래를 나타내므로 will improve가 아니라 improve가 되어야 한다.
+5-4:actual:1|동사 자리이며 형태가 안 되는 (A), (C)는 제외한다. next month라는 미래 시간 표현이 있으므로 미래시제여야 하고, 미래완료 will have p.p.는 By/By the time 등과 함께 쓰이므로 오답이다. 정답은 will provide.
+5-4:actual:2|뒤에 소유격 his+명사 thesis라는 목적어가 있으므로 능동태 동사여야 하고, 주어가 3인칭 단수이므로 -s형은 오답이다. last issue로 보아 과거시제 published가 알맞다.
+5-4:actual:3|뒤에 목적어 suggestions가 있으므로 능동태여야 하고, until the end of this month라는 미래 시간 표현이 있으므로 미래진행 시제가 알맞다.
+5-4:actual:4|뒤에 전치사 by가 쓰이고 목적어가 없으므로 수동태 동사여야 한다. 따라서 수동태 is surpassed가 정답이다. (surpass 능가하다)
+5-4:actual:5|뒤에 명사가 아닌 전치사 on이 나오므로 목적어 없는 수동태여야 하고, yesterday라는 과거 시간 표현이 있으므로 과거시제 was announced가 알맞다.
+5-4:actual:6|experienced는 명사 medical staff를 수식하는 형용사이므로 동사 자리가 아니다. 뒤에 목적어가 있어 수동태도 오답이고, over the past 7 years는 현재완료와 어울리므로 has hired가 정답이다.
+5-4:actual:7|if(~인지)는 접속사이므로 빈칸은 동사 자리이다. 빈칸 뒤에 아무것도 없어 완전한 문장이 되어야 하므로 수동태가 정답이다.
+5-4:actual:8|동사 자리이며 뒤에 an innovative online banking system이라는 목적어가 있으므로 능동태 동사가 와야 한다. 따라서 정답은 능동태 동사이다.
+5-4:actual:9|동사 자리이며 뒤에 in or near라는 전치사 표현이 있고 목적어가 없으므로 수동태 동사가 들어가야 한다.
+5-4:actual:10|when이 이끄는 시간 부사절이므로 현재시제가 미래를 대신한다. 주어와의 수일치에 맞는 현재시제 returns가 알맞다.
+5-4:actual:11|뒤에 목적어 없이 전치사 after만 있으므로 수동태여야 하고, 보기 중 조동사 must와 결합한 수동태는 must be removed가 유일하다.
+5-4:actual:12|동사 자리이며 뒤에 목적어가 없고 돈은 기부되는 것이므로 수동태 was donated가 정답이다.
+5-4:actual:13|문장 앞에 By+미래 시점(early March next year)이 있으면 미래완료(will have p.p.)가 강력한 단서가 된다. 따라서 미래완료가 정답이다.
+5-4:actual:14|동사 자리이며 뒤에 소유격 its+명사 influence라는 목적어가 있으므로 능동태 동사여야 한다. (A), (D)는 수동태이므로 미래 능동태 will expand가 알맞다.
+5-4:actual:15|structure는 '조직하다'라는 뜻의 동사로도 쓰인다. 자동사로 특화된 동사가 아니면 타동사로 보는데, 빈칸 뒤에 목적어 없이 to+동사원형이 바로 이어지므로 수동태가 되어야 한다.
+5-4:actual:16|name은 '임명하다'라는 뜻의 5형식 동사(name+목적어+목적격 보어)이다. 목적어가 주어로 나가면 목적격 보어(CEO)가 수동태 뒤에 그대로 남는다. 단순 현재 (B)는 맥락상 어색하고 recently는 과거시제와 쓰이므로 과거 수동태가 정답이다.
+5-4:actual:17|빈칸 앞에 was가 있고 보기가 모두 p.p. 형태이므로 수동태이다. 뒤에 목적어(the ... award)가 남아 있으므로 4형식 동사 award의 수동태 awarded가 정답이다.
+5-4:actual:18|조동사 must 뒤 동사원형 자리이다. at least twice a year는 빈도 표현으로 목적어가 아니라 부사구이므로 목적어가 없는 수동태 be cleaned가 정답이다.
+5-4:actual:19|뒤에 소유격 its+명사 customers라는 목적어가 있으므로 능동태여야 하고, 주어 Car Masters는 단수 고유명사이므로 단수동사 offers가 알맞다. offer는 4형식이라 명사가 남아도 수동태가 가능하지만 이때 주어는 사람이어야 한다.
+5-4:actual:20|앞 동사가 will be joining으로 미래시제이므로 미래시제에 특화된 부사 soon이 정답이다. yet은 주로 부정문에 쓰이고 lately, previously는 과거시제에 쓰이는 부사이다.

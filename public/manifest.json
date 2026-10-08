@@ -1,0 +1,5 @@
+{
+  "name": "토익 퀴즈", "short_name": "토익퀴즈", "start_url": "/", "display": "standalone",
+  "background_color": "#f6f7fb", "theme_color": "#3b5bdb", "lang": "ko",
+  "icons": [{ "src": "/static/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

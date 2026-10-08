@@ -1,0 +1,82 @@
+# 유닛 5-1, 5-2 해설 (정답과 해설 PDF 요약)
+5-1:practice-A:14|delay는 '지연; 지연시키다'라는 뜻으로 명사와 동사 모두로 쓰인다.
+5-1:practice-A:16|applicant(지원자)는 사람명사다. -ant/-ent로 끝나는 단어 중에는 형용사도 많다(예: significant는 '상당한, 중요한'이라는 형용사).
+5-1:practice-A:20|advice는 명사, advise는 동사다.
+5-1:practice-A:21|advice는 명사, advise는 동사다.
+5-1:practice-A:24|broaden(확장하다)은 동사다. -en 형태의 대표 동사로 widen, lengthen, heighten 등이 있다.
+5-1:practice-B:1|소유격은 혼자 쓰일 수 없고 뒤에 명사가 있어야 한다. 뒤에 명사가 없어서 틀린 문장이다.
+5-1:practice-B:2|동사 become 뒤에 명사가 오면 주어와 동격('~이 되다')이 되어야 한다. Mr. Kim은 한 명인데 doctors는 복수여서 틀렸다.
+5-1:practice-B:3|소유격은 혼자 쓰일 수 없고 뒤에 명사가 있어야 한다. 뒤에 명사가 없어서 틀린 문장이다.
+5-1:practice-B:4|This(지시대명사)=your book(소유격+명사)으로 맞는 문장이다.
+5-1:practice-B:5|'소유격+명사' 사이에는 a/the가 절대 들어갈 수 없다. her car로 써야 하므로 틀린 문장이다.
+5-1:practice-B:6|주격 I, 동사 will buy 뒤에 목적격 it이 있으므로 맞는 문장이다.
+5-1:practice-B:7|주격 I, 동사 will buy 뒤에 명사 computers가 목적어로 쓰였으므로 맞는 문장이다.
+5-1:practice-B:8|be동사 앞뒤에 명사가 오면 동격이어야 한다. She(사람)와 employment(고용, 일자리)는 동격이 안 되어 틀렸다.
+5-1:practice-B:9|She와 employee(직원)는 둘 다 사람이라 동격이 되므로 맞는 문장이다.
+5-1:practice-B:10|a/the 뒤에는 명사가 와야 하는데 handsome은 형용사라서 틀린 문장이다.
+5-1:practice-B:11|사람 이름 Catherine은 '소유격+명사' your friend와 동격이 되므로 맞는 문장이다.
+5-1:practice-B:12|your(소유격) 뒤에는 명사가 와야 하는데 advise는 동사라서 틀린 문장이다.
+5-1:practice-B:13|your(소유격) 뒤에 명사 advice가 왔으므로 맞는 문장이다.
+5-1:practice-B:14|on 같은 전치사는 명사를 이어 주므로 The book on the table은 맞고, mine은 '내 것'이라는 뜻으로 The book과 동격이므로 맞는 문장이다.
+5-1:practice-B:15|Mr. Kim이 주어, has가 동사이고, 목적어 자리에 'a+형용사+명사(ability)'가 쓰였으므로 맞는 문장이다.
+5-1:actual:1|if절에서 동사 have 앞 주어 자리가 비어 있다. 주어가 가능한 것은 (A) you와 소유대명사 (B) yours인데, 문제를 가지고 연락하는 주체는 사람이므로 주격 (A) you가 정답이다.\n어휘: contact 연락하다
+5-1:actual:2|빈칸 앞에 a/an이 없고 보기 중 -s가 붙은 복수 명사도 없으므로 불가산명사 (A) Research가 정답이다. (B) Study도 '연구'이지만 가산명사라 a study나 studies가 되어야 한다.\n어휘: grocery 식료품
+5-1:actual:3|빈칸 앞 very는 부사이고, be동사 뒤에 a/an 붙은 명사가 없으면 형용사가 보어로 온다. 따라서 형용사 (C) convenient가 정답이다. (A)(B)는 명사, (D)는 부사다.
+5-1:actual:4|leading은 '일류의, 선도하는'이라는 형용사이므로 뒤에 명사가 와야 한다. become은 주어와 동격인 사람명사를 취하고, one of 뒤에는 복수명사가 와야 하므로 (D) analysts가 정답이다.
+5-1:actual:5|-'s(소유격) 뒤 빈칸은 명사 자리이고, he는 앞 절의 주어 Mr. Johnson을 받는다. 그가 출장 중일 때 문의에 답할 수 있는 사람명사 (A) assistant(보조, 조수)가 정답이다. 소유격과 명사 사이에는 a도 the도 들어가지 않는다.
+5-1:actual:6|사람명사 customer 앞에 a도 없고 customers도 아니므로 '명사+명사' 복합명사로 봐야 한다. customer satisfaction(고객 만족)은 복합명사이고 satisfaction은 불가산명사이므로 (A)가 정답이다.
+5-1:actual:7|명사 사이에 콤마가 있으면 동격일 가능성이 높다. 사람 이름 Joho Duke와 동격을 이루는 사람명사 (A) author(저자, 작가)가 정답이다. (C) partner는 사람명사지만 문맥에 맞지 않는다.
+5-1:actual:8|빈칸은 동사 said의 주어 자리이므로 사람명사가 필요하다. 앞에 a나 the가 없으므로 단수형 (C) Participant는 안 되고 복수형 (D) Participants가 정답이다.
+5-1:actual:9|but 뒤에 주어가 없으므로 주어 자리다. they는 복수라서 단수동사 was와 수가 안 맞고, themselves는 주어가 못 되며, their는 뒤에 명사가 필요하다. '그들의 프로젝트 제안'을 뜻하는 소유대명사 (D) theirs가 정답이다.
+5-1:actual:10|빈칸 앞 two more를 보면 복수명사가 들어가야 하므로 단수인 (A) facility와 (D) case는 오답이다. 동사 open의 목적어로 '공장'을 뜻하는 (B) factories가 정답이다.
+5-1:actual:11|ongoing은 형용사이고 소유격 our 뒤에는 명사가 와야 하므로 빈칸은 명사 자리다. be동사가 is이므로 주어는 단수명사이다. 따라서 (C) relationship이 정답이다.
+5-1:actual:12|frequent는 형용사로 주어가 문장에 없으므로 빈칸은 will be의 주어가 되는 명사 자리이다. 따라서 (D) interactions가 정답이다. (A) interact는 동사이고 (B)(C)는 동사에서 변형된 형태다.
+5-1:actual:13|빈칸은 형용사 recent의 수식을 받는 명사 자리이므로 동사 (A)와 형용사 (C)는 오답이다. (B) critic은 '비평가'로 사람명사이고, (D) criticism은 '비판, 비난'이라는 추상명사로 문맥에 맞아 정답이다.
+5-1:actual:14|on 뒤에 소유격과 own이 오는 'on+소유격+own'은 '스스로의 힘으로'라는 뜻의 구문이다. 따라서 (C) his own이 정답이다. himself는 단독으로 쓰이거나 앞에 by가 붙어야 한다.
+5-1:actual:15|문장 앞 The 뒤에는 주어 역할을 하는 명사가 들어가야 하고, in charge of와 because가 이끄는 절의 주어 he를 단서로 사람명사 (A) person이 정답이다. (B) people은 they로 받아야 한다.
+5-1:actual:16|'a+부사+형용사 역할 -ed+빈칸' 구조라 앞에 a가 있으므로 단수 가산명사가 필요하다. information, access, feedback은 불가산명사이므로 (C) practice가 정답이다. highly recommended practice(매우 권장할 만한 관행)는 연어로 외워 두자.
+5-1:actual:17|'명사, 명사'의 동격으로 쓰인 주어와 동사 sent 뒤에 명사 portfolio가 있다. 명사 앞에 올 수 있는 인칭대명사의 격은 소유격뿐이므로 (B) her가 정답이다.
+5-1:actual:18|many 뒤에는 복수명사가 와야 한다. many가 tourist를 수식한다고 보면 tourists가 되어야 하는데 단수라서 안 된다. 따라서 '명사+명사' 복합명사로 보고 뒤 명사가 복수가 된 (B) attractions가 정답이다.
+5-1:actual:19|parking은 불가산 복합명사로 앞 명사가 아니라 뒤 명사와 수가 일치해야 하므로 빈칸은 가산 단수명사 자리이다. 동사형 (D)는 소거되고, 허가증(가산명사)을 뜻하는 (A) permit이 정답이다. permission은 불가산명사다. parking permit은 토익 빈출 표현이다.
+5-1:actual:20|all 뒤 빈칸에는 주로 명사가 들어가고, 동사 greet은 '사람'을 맞이할 때 쓰이므로 사람명사가 필요하다. all은 복수명사를 수식하므로 (B) buyers가 정답이다.
+5-2:practice-A:5|rather는 형용사 앞에 오면 '다소, 꽤', 문장 앞에서 콤마와 함께 쓰이면 '차라리, 오히려'라는 뜻이다.
+5-2:practice-A:12|random 같은 어휘는 철자가 형용사 느낌이 안 들기 때문에 형용사임을 따로 암기해야 한다.
+5-2:practice-A:16|only는 형용사와 부사로 모두 쓰임을 반드시 암기한다.
+5-2:practice-A:20|weekly는 형용사로 외운다. '주간지'라는 명사로도 쓰이지만 주로 형용사다.
+5-2:practice-A:21|quarterly는 형용사로 외운다. '계간지'라는 명사로도 쓰이지만 주로 형용사다.
+5-2:practice-A:24|somewhat처럼 wh- 의문사 앞에 some, any, no 등이 결합된 어휘는 부사로 쓸 수 있다.
+5-2:practice-B:1|주어 They와 동사 opened 사이에 부사 finally가 들어간 맞는 문장이다.
+5-2:practice-B:2|once는 '한때'라는 뜻으로 과거시제와 쓴다. '한때 판매했다'는 현재형 sells가 아닌 과거형 sold가 되어야 하므로 틀렸다.
+5-2:practice-B:3|reliant는 형용사지만 reliant on/upon 형태로 쓰인다. '믿을 만한'은 -able 형태의 reliable로 써야 한다.
+5-2:practice-B:4|'be동사+형용사+전치사'는 한 덩어리로 암기해야 한다. be responsible은 for와 함께 쓰인다.
+5-2:practice-B:5|동사 become은 뒤에 보어로 형용사를 끌기 때문에 형용사 complicated가 쓰인 맞는 문장이다.
+5-2:practice-B:6|동사 look은 보어로 형용사를 취하는 2형식 동사이므로 명사 beauty가 아니라 형용사 beautiful로 써야 한다.
+5-2:practice-B:7|형용사를 꾸미는 부사 enough는 형용사 뒤에 온다. 따라서 enough full이 아니라 full enough가 되어야 한다.
+5-2:practice-B:8|many는 뒤에 복수명사를 끌기 때문에 benefit이 아닌 benefits가 되어야 한다.
+5-2:practice-B:9|each 바로 뒤에는 단수명사, each of 뒤에는 복수명사를 쓴다. each of our staff members는 맞는 구문이다.
+5-2:practice-B:10|소유격 his 앞에 형용사 extensive가 나올 수 없다. his extensive study로 써야 하므로 틀렸다.
+5-2:practice-B:11|동사 appear는 'to+동사원형'으로 보충할 수 있다. 보통 to be로 쓰이므로 appear to be로 외워 두자.
+5-2:practice-B:12|be subject to에서 to는 전치사이므로 뒤에 명사가 와야 한다. 동사원형 cancel이 아니라 명사 cancellation이 되어야 한다.
+5-2:practice-B:13|I didn't check my e-mail로 완벽한 문장이므로, 부정문과 어울려 문장 끝에 오는 부사 yet(아직 ~하지 못한)이 쓰인 맞는 문장이다.
+5-2:practice-B:14|5형식 구조로 '동사 consider+목적어 the proposal+목적어 보충 언어 형용사 useless'가 쓰인 맞는 문장이다.
+5-2:practice-B:15|We will begin the meeting으로 이미 완벽한 문장에 부사 shortly(곧)가 시점을 강조하며 들어간 맞는 문장이다.
+5-2:actual:1|be -ing 사이에는 부사가 들어간다. lately와 previously는 과거의 느낌이라 be동사가 were여야 하고, therefore는 현재진행과 관련이 없다. 따라서 (A) currently가 정답이다. 현재진행 사이에는 currently, now, presently가 잘 쓰인다.
+5-2:actual:2|be동사와 전치사 of 사이에는 형용사가 들어간다. 'be동사+형용사+전치사'를 덩어리로 암기해야 하며, be mindful of(~을 염두에 두다)를 알면 (B) mindful이 정답이다.
+5-2:actual:3|more, less 같은 비교급 표현을 앞에서 꾸미는 품사는 부사뿐이므로 (D) considerably(상당히)가 정답이다. (A)는 명사, (B)는 형용사, (C)는 동사다.
+5-2:actual:4|-th로 끝나는 어휘는 주로 명사이므로 length를 꾸미는 형용사가 필요하다. (A)는 부사, (B)(D)는 동사이므로 (C) manageable(관리 가능한)이 정답이다.
+5-2:actual:5|-ever로 끝나는 whichever, however는 문장을 이끌므로 (C)(D)는 오답이다. sometime은 '언젠가'라는 부사이고 sometimes는 '가끔'이다. 따라서 (A) sometime이 정답이다. this year, next year 등도 부사다.
+5-2:actual:6|명사 neighborhoods를 수식하는 것은 형용사이므로 부사 (B)와 동사 (D)는 오답이다. resided는 자동사라 수동태를 거부하므로 어색하다. 따라서 (A) residential(거주의)이 정답이다.
+5-2:actual:7|전치사 in부터 콤마 앞까지는 수식어구이고 콤마 뒤에 주어 Mr. Jackson, 동사 argues, 목적어 his point가 있다. 빈칸은 동사를 꾸미는 부사 자리이므로 (C) persuasively가 정답이다.
+5-2:actual:8|outdoor는 형용사이고 outdoors는 부사다. annual event처럼 '형용사+형용사+명사' 구조이므로 (C) outdoor가 정답이다. 외워 두면 좋은 패턴이다.
+5-2:actual:9|reliable(믿을 만한)은 명사를 바로 수식할 수 있지만 reliant/dependent는 on, upon 같은 전치사가 필요하다. mobile phone service를 수식하는 (A) reliable이 정답이다.
+5-2:actual:10|have p.p. 사이에는 없어도 되는 부사가 온다. such는 형용사/대명사이고 well, very 같은 강조 부사는 동사 세트 사이에 위치하기 어렵다. 부정문과 어울려 '아직'이라는 뜻의 (A) yet이 정답이다.
+5-2:actual:11|even though 앞 문장은 주어 interns, 동사 performed, 목적어 tasks로 이미 완벽하므로 빈칸에는 부사가 들어가야 한다. 따라서 (B) effectively가 정답이다. (D) more effective는 형용사의 비교급이다.
+5-2:actual:12|부사 enough가 형용사를 꾸밀 때는 '부사+형용사'가 아니라 '형용사+부사 enough' 순서로 쓴다. 따라서 (D) spacious가 정답이다. '형용사+enough+to+동사원형'(~하기에 충분히 …한)을 외워 두자.
+5-2:actual:13|동사 deem(간주하다)은 5형식 동사로 목적어 뒤에 목적어에 대한 보충 언어(형용사)를 취한다. 따라서 형용사 (A) successful이 정답이다.
+5-2:actual:14|a/an과 복합명사 due date 사이이므로 명사 덩어리 due date를 꾸밀 형용사가 필요하다. extensive(광범위한)와 extended((기한 등이) 연장된) 중 deadline, due date 앞에는 extended가 어울리므로 (D)가 정답이다.
+5-2:actual:15|find(찾아내다, 여기다)의 과거형 found는 5형식 동사로 목적어의 보충 언어로 형용사를 취한다. 따라서 형용사 (B) beneficial이 정답이다. (A)(D)는 명사 또는 동사, (C)는 부사다.
+5-2:actual:16|workload(업무량)가 많을 때는 보통 heavy의 수식을 받는다. 연어 표현이므로 (C) heavy가 정답이다. willing은 be willing to 구조로 쓰이고 quite는 부사라서 명사를 꾸밀 수 없다.
+5-2:actual:17|if절에서 unavailable이라는 부정적인 의미가 나왔다. 광고 상품이 구매 불가능해도 '여전히' 대체 상품에 할인을 받을 수 있다는 의미이므로 (A) still이 정답이다. ever는 가정이나 경험을, nearly는 '거의'를 나타내며 문맥에 맞지 않는다.
+5-2:actual:18|'be+형용사+전치사'를 외워야 한다. be influential in(~에 영향을 미치다, 도움이 되다)은 반드시 암기해야 하는 표현이므로 (B) influential이 정답이다.
+5-2:actual:19|30 seconds처럼 '숫자+명사' 구조에서 숫자를 앞에서 꾸밀 수 있는 부사는 매우 한정적이다. 보기 중 숫자를 바로 앞에서 꾸밀 수 있는 것은 (C) approximately(약)뿐이다. '거의'는 nearly로 써야 한다.
+5-2:actual:20|upsurge(급증)는 명사이고 앞에서 명사를 수식하는 것은 형용사다. sudden도 형용사이므로 '갑작스러운+급격한 급증'처럼 형용사가 나열된 구조가 되어 (B) sharp가 정답이다. sharpen 같은 -en 형태는 동사다.

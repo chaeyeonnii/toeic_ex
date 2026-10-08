@@ -1,0 +1,79 @@
+# 유닛 6-14, 7-15 해설 (정답과 해설 PDF 요지 정리)
+6-14:practice:p14:131|「주어+be동사+to 동사원형」 구조가 나오면 보통 '~하기 위한 것이다'라는 목적을 뜻하므로 명사 purpose(목적)가 정답이다.
+6-14:practice:p14:132|request(요구하다) 계열 동사는 「request+사람+to 동사원형」 구조인데, 사람 목적어 없이 바로 to가 이어지므로 목적어가 주어로 올라간 수동태(be p.p.)인 are requested가 정답이다. 동사구에서 be동사가 없으면 수동태가 될 수 없다.
+6-14:practice:p14:133|앞 문장은 '설문을 작성하다', 뒤 문장은 '신원이 알려지지 않은(unknown)'이라는 내용이므로 문맥상 anonymously(익명으로)가 정답이다. 어휘 문제는 주변 내용의 영향을 받는다.
+6-14:practice:p14:134|빈칸 앞에서 설문을 익명으로 작성해 신원을 알 수 없다고 했으므로 '그러므로 기밀 유지에 대해 걱정할 필요가 없다'가 자연스럽다. (B)는 시제상 어색하고 (C), (D)는 지문에 근거가 없다.
+6-14:actual-1:a1p1:1|접속사 and 앞뒤 문장의 주어가 같으면 뒤 주어를 생략할 수 있다. 최근(recently) 구입했다는 과거 내용이고 빈칸 뒤에 목적어 them이 있으므로 능동 과거형 received가 정답이다.
+6-14:actual-1:a1p1:2|be impressed with는 '~에 감명받다'라는 1초 구문이다. 감정을 나타내는 형용사는 사람이 느끼면 -ed(p.p.), 사물이 일으키면 -ing를 쓰므로 impressed가 정답이다.
+6-14:actual-1:a1p1:3|빈칸 앞에서 제품 품질에 만족해 대량 주문하고 싶다고 했고 뒤에 100개 주문 이야기가 나오므로 '고객들에게 훌륭한 선물이 될 것이다'가 문맥상 알맞다. (A), (D)는 부정적이라 맞지 않는다.
+6-14:actual-1:a1p1:4|배송 희망 날짜 앞의 '~까지'는 일회성으로 마무리되는 시점을 뜻하는 by가 알맞다. until은 상태가 계속 지속될 때 쓰고, during은 기간 명사와, then은 부사로 쓰여 맞지 않는다.
+6-14:actual-1:a1p2:5|one of 뒤에는 복수명사가 와야 한다. leading(일류의)이 형용사이고 뒤에 명사가 필요하므로 복수명사 producers(제조업체들)가 정답이다. products는 회사인 Foodies와 동격이 되지 않는다.
+6-14:actual-1:a1p2:6|빈칸 뒤 increase(증가)를 수식하는 부사로 '폭'을 강조하는 significantly(상당히)가 가장 알맞다. lastingly는 효과나 영향에 쓰고 증가나 감소에는 쓰지 않는다.
+6-14:actual-1:a1p2:7|빈칸 앞 be diversified(다각화되다) 뒤에 '성공 여부에 따라'라는 뜻의 전치사 표현 based on이 와야 한다. before, except for는 의미가 맞지 않고 when은 접속사라 부적절하다.
+6-14:actual-1:a1p2:8|빈칸 앞뒤에 연결된 문장이 없이 혼자 떨어진 마지막 문장은 출시 계획 같은 마무리 내용이 보통이다. '밸런스 세트는 6월에 주요 식료품점에서 판매 시작될 예정이다'가 정답이다. (A)는 기사가 아닌 광고에 어울린다.
+6-14:actual-1:a1p3:9|바로 뒤 문장에 The newly merged company(새롭게 합병된 회사)가 나오므로 최근 마무리된 일을 뜻하는 현재완료 have finalized가 정답이다. 주어 A and B는 복수이므로 have로 시작한다.
+6-14:actual-1:a1p3:10|빈칸 앞에 fifty new hires(신입사원)가 나오고 뒤도 직원 채용과 지원 이야기이므로 '내년에 30명의 직원을 더 채용할 계획이다'가 흐름상 정답이다.
+6-14:actual-1:a1p3:11|빈칸 앞에 both가 있으므로 「both A and B」 구조가 명확하다. as well은 부사로 새로운 단어를 연결하지 못한다.
+6-14:actual-1:a1p3:12|help가 make, let 등과 함께 목적격 보어로 동사원형을 취하는 대표 동사라는 점을 알아야 한다. 따라서 become이 정답이다.
+6-14:actual-1:a1p4:13|빈칸 뒤 문장이 국경일을 기념한다(in observance of)는 내용이므로 '그린빌 역의 매표소는 1월 1일에 문을 닫는다'가 앞에 와야 자연스럽다. (B)의 this new service는 앞에 가리킬 내용이 없다.
+6-14:actual-1:a1p4:14|빈칸 앞 키오스크는 무인 판매대이므로 through(온라인을 통해서)는 어색하다. 매표소는 닫지만 두 가지 경로로 구매가 가능함을 덧붙이는 양쪽 명사 연결 접속어 as well as가 알맞다.
+6-14:actual-1:a1p4:15|빈칸 앞에 부정어 not이 있고 월 정기권은 공휴일에 '유효하지 않다'는 의미가 되어야 하므로 valid(유효한)가 정답이다.
+6-14:actual-1:a1p4:16|for more information(= for more details)은 '추가 정보를 원하시면'이라는 뜻으로 많이 쓰이는 표현이라 외워 두어야 한다. In order는 「in order to 동사원형」 구조로 쓴다.
+6-14:actual-2:a2p1:1|빈칸 앞 문장에서 기업체들의 추세를 말했고 뒤에 특정 기업 JMK Motors가 나오므로 '예를 들어'라는 뜻의 For instance가 정답이다. In addition, In short, Even so는 문맥에 맞지 않는다.
+6-14:actual-2:a2p1:2|the measure was taken 형태가 되어야 하는 문제로 명사 decision은 make a decision(결정하다) 형태로 쓰인다. production, qualification은 문맥상 맞지 않는다. 어휘는 collocation 암기가 중요하다.
+6-14:actual-2:a2p1:3|문장 넣기 문제로 빈칸 바로 뒤 Therefore가 단서이다. '소비자들이 환경에 대한 의식이 점점 높아지고 있다'가 들어가야 재생 가능 에너지를 쓰는 기업이 수익을 올릴 것이라는 결론으로 자연스럽게 이어진다.
+6-14:actual-2:a2p1:4|빈칸 앞에 콤마가 있고 뒤 절이 주어 역할이 필요하므로 앞 절 전체를 받아 부연 설명하는 계속적 용법의 관계대명사 which가 정답이다. that은 콤마와 쓸 수 없고 what은 뒤 문장이 완전하여 부적절하다.
+6-14:actual-2:a2p2:5|빈칸 앞의 more만 보고 형용사나 부사를 찾지 않도록 주의한다. 뒤에 동사 provide와 you가 있으므로 무엇을 제공하는지 목적어가 필요하다. more 뒤에는 셀 수 있는 복수 명사가 와야 하므로 details가 정답이다.
+6-14:actual-2:a2p2:6|빈칸 뒤에 of them이 있으므로 전치사 of와 결합이 쉬운 대명사/수량 표현을 골라야 한다. this/these와 every는 of 앞에 쓰지 않고, 앞에서 two를 언급했으므로 both가 정답이다.
+6-14:actual-2:a2p2:7|자신의 작품을 제안하는 글에서 앞서 두 작품을 언급했으므로 '후자는 지난달 권위 있는 잡지에 실렸다'(the latter)가 정답이다. (A)는 뜬금없이 전문 분야를 말하고 (B)는 Her 지칭 대상이 없으며 (D)는 처리 기간이 맥락에 맞지 않는다.
+6-14:actual-2:a2p2:8|빈칸 바로 뒤에 목적어가 되는 명사 the opportunity가 있으므로 능동태 동사가 필요하다. appreciative는 형용사라 맞지 않고 would appreciate가 정답이다. would는 '~하면 좋겠다' 등의 뉘앙스를 나타내는 조동사이다.
+6-14:actual-2:a2p3:9|for a month(한 달 동안)는 지속 기간을 뜻하고 제품 리뷰이므로 사용해 온 상태를 나타내는 현재완료진행 시제 I have been using이 알맞다. (A)는 현재진행, (B)는 현재 사용하지 않는 의미가 되어 부적절하다.
+6-14:actual-2:a2p3:10|감정은 사람이 느낄 때 p.p.로 쓴다. be pleased with는 '~에 만족하다'라는 암기 구문이므로 pleased가 정답이다. pleasure는 명사이고 pleasant는 사람의 감정을 나타내지 않는다.
+6-14:actual-2:a2p3:11|빈칸 뒤에 later(나중에)라는 표현이 나오므로 '처음에는 너무 밝다고 생각했으나 나중에는 알게 되었다'는 흐름이 된다. 따라서 At first(처음에는)가 정답이다.
+6-14:actual-2:a2p3:12|빈칸 앞에서 가격이 비싸다고 하고 뒤에서는 문제가 생기면 교체(replacement)를 받을 수 있다고 하므로 품질 보증과 관련된 '이 회사는 8년간 유효한 연장된 품질 보증을 제공합니다'가 정답이다.
+6-14:actual-2:a2p4:13|빈칸 앞 music, 뒤 program 모두 명사이므로 복합명사를 이루는 명사 education이 정답이다. 동사 educate는 중복되고 형용사 educational은 명사 사이에 오지 않는다.
+6-14:actual-2:a2p4:14|aspiring은 '장차 ~이 되기를 희망하는'이라는 뜻으로 뒤에 직업명이 오면 지망생을 뜻한다. aspiring musicians(음악가 지망생)를 지원한다는 흐름이 지문과 맞아 정답이다.
+6-14:actual-2:a2p4:15|빈칸 뒤에 지역(local) 학교 교사의 이야기가 나오고 앞에 보스턴에서 설립된 재단이 언급되었으므로 '재단은 최근에 현지 여러 학교와 협력했다'가 자연스럽다. 나머지는 지문에 없는 내용(행사, 본부 이전 등)이다.
+6-14:actual-2:a2p4:16|빈칸 앞에 콤마가 두 개 있어 a teacher at a local middle school이 삽입된 부연 설명이므로 주어 Patricia Wang에 대한 동사가 필요하다. 시제가 일치하는 과거시제 said가 정답이다. say는 단수 주어와 수 일치가 안 된다.
+7-15:practice-A:pa1:1|첫 문장부터 전시회가 어디에서 열리는지 알리고 focus on으로 전시회 주제를 소개하고 있으므로 기사의 목적은 전시회를 홍보하는 것이다. main purpose와 one purpose의 차이에 주의한다.
+7-15:practice-A:pa2:2|NOT 문제는 어휘 재표현이 핵심이다. oil painting dealer는 an art seller, schoolbook publishing firm은 a book publisher, culinary academy는 a cooking school로 바뀌었다. 현재 입점한 곳에 가구점은 없으므로(가구 창고는 과거 용도) 정답은 (D)이다.
+7-15:practice-A:pa3:3|단 한 명의 고객도 이 자전거에 투자한 것을 후회하지 않았다는 문장에서 고객들이 가격만큼 가치가 있다고 생각한다고 추론할 수 있다. 맞춤제작, 최다 판매, 단종은 언급되지 않았다.
+7-15:practice-A:pa4:4|over three decades가 more than 30 years로, airline이 aviation으로 재표현되어 30년 이상 항공업계에서 활동해 왔다는 (C)가 정답이다. 본사 위치(A)나 공항 수(B), 신규 채용(D)은 언급이 없다.
+7-15:practice-A:pa5:5|지문의 Their crew will also dust our air vents and desks 부분에서 dust(먼지 제거)를 확인할 수 있으며 이것이 (C)의 dusting 재표현이다. 단골 할인, 10명의 작업팀, 건물 공유는 근거가 없다.
+7-15:practice-A:pa5:6|Friday를 키워드로 단서를 찾으면 report to work at 11:00 A.M. on Friday instead of 9:00 A.M. as usual에서 평소보다 늦게 출근해야 함을 알 수 있다.
+7-15:practice-B:5|acquired를 purchased로 바꿔 쓴 것으로, 기업 인수는 곧 매입을 의미한다.
+7-15:practice-B:7|vacant positions를 openings로 바꿔 쓴 것이다. 줄여서 vacancies로도 표현한다.
+7-15:practice-B:9|tenure를 period로 바꿔 쓴 것이다. time으로도 표현할 수 있다.
+7-15:practice-B:12|photographs를 images로 바꿔 쓴 것이다. photo, picture 모두 image로 표현할 수 있다.
+7-15:actual:t1:1|첫 문단의 Please leave any pets in your (safely ventilated) vehicle을 통해 고객들이 차를 운전해서 매장에 올 것임을 유추할 수 있다. 노인이 많다는 말이나 장바구니 지참은 언급이 없고, 도우미견이 쇼핑 카트에 타는 것(ride in)은 안 된다는 것이지 돈을 낸다는 말은 아니다.
+7-15:actual:t1:2|도우미견에게 요구되는 사항 중 well-behaved는 (D), kept on a leash or harness는 (B), accompanied by their handlers at all times는 (A)로 재표현되었다. 깔끔한 외모에 대한 언급은 없으므로 (C)가 정답이다.
+7-15:actual:t3:3|1시 49분의 that happens sometimes when I've logged in from out of the office는 '원격으로 일하고 있다'는 뜻이므로 (C)가 정답이다. from out of the office가 working remotely로 재표현되었다.
+7-15:actual:t3:4|Thomson 씨가 컴퓨터를 재시작하라고 잠시 기다리게 한 뒤 Does it work now?라고 물은 것이므로, 오프라인 문제가 해결되었는지 묻고 있다는 (A)가 정답이다.
+7-15:actual:t5:5|지문 초반에서 손상된 골동품 가구의 복원과 재건을 전문으로 한다고 했으므로 가구 수리 서비스가 정답이다. restoration and reconstruction of damaged가 repair service로 재표현되었다. 가구를 판매하는 곳은 아니므로 (B)는 오답이다.
+7-15:actual:t5:6|NOT 문제이지만 보기가 고유명사라 재표현 고민이 필요 없다. Heavenly Bistro, Finley Community Center, Brown Café는 직접 작업을 맡긴 곳이고, Lenom Tower는 업체 위치를 설명하려고 언급된 곳이므로 (D)가 정답이다.
+7-15:actual:t7:7|첫 번째 문단의 these devices can have a negative effect on our natural rhythms가 a health hazard(건강 위험)로 재표현되었으므로 독자에게 건강 위험을 경고하기 위한 글이다.
+7-15:actual:t7:8|두 번째 문단부터 Lucas 박사의 연구 내용이 나오고 sleeping patterns(수면 패턴)를 연구한다고 했으므로 정답은 people's sleeping patterns를 다시 표현한 (C)이다.
+7-15:actual:t7:9|This may be good advice, but it is not practical for many people.의 This는 앞 문장 전체를 가리키며 advice에 해당하는 내용이 [4] 앞의 In fact, he recommends turning off all screens at this time이므로 [4]가 정답이다.
+7-15:actual:t10:10|첫 문단부터 새로운 정책(new policy)에 대해 세부 정보를 제공하겠다고 하므로 주된 목적은 새 정책의 세부사항 설명이다. 직원 성과 보고나 회의 공지는 주된 목적이 아니다.
+7-15:actual:t10:11|이전 부서를 묻는 문제로 previously가 핵심이다. 현재는 인사부이고 본문에서 Members of the marketing division ~ the policy, which I enacted while serving as the manager of the department before recently moving to human resources라고 했으므로 마케팅부가 정답이다.
+7-15:actual:t10:12|두 번째 단락에 So that employees may better understand ~ a series of meetings ... led by myself and other human resources managers라는 내용이 있으므로 Litton 씨가 일부 회의에서 발표할 것임을 추론할 수 있다. 새 지사, 12개월 후 퇴사, 휴가 불참은 근거가 없다.
+7-15:actual:t13:13|공고에 live on or near campus(캠퍼스 내 또는 인근에 거주)라고 했으므로 (B)가 정답이다. 능통 언어는 영어와 다음 중 하나이므로 총 2개이고 개인 지도 경험이나 원격 근무 언급은 없다.
+7-15:actual:t13:14|공고에서 면접을 보는 이유가 to identify their level(수준을 확인하기 위해)이므로 identify는 '알아내다, 파악하다'의 의미이다. 보기 중 determine이 같은 뜻이다.
+7-15:actual:t13:15|두 번째 지문 이메일에서 Lim 씨가 영어와 중국어에 능통하다(fluent in English and Chinese)고 했으므로 중국어가 정답이다.
+7-15:actual:t13:16|연계 문제이다. 공고에서는 학점 평균이 3.4 이상이어야 한다고 했는데 Lim 씨의 학점은 3.2이므로 요구 성적을 갖추지 못해 고용되기 어려울 수 있다.
+7-15:actual:t13:17|이메일 후반부에서 공고에 급여에 대한 언급이 없다고 하며 보수(compensation) 정보를 보내 줄 수 있는지 묻고 있으므로 일자리 급여가 정답이다.
+7-15:actual:t18:18|첫 번째 지문에서 그리스로 해외 여행을 다녀온 후 연극의 아이디어를 구상했다(conceived the idea)고 했으므로 해외 여행에서 영감을 받았다는 (C)가 정답이다. 평론가들의 엇갈린 평가나 장기 공연 언급은 없다.
+7-15:actual:t18:19|modest salary(소박한 급여)에서 modest는 '그리 많지 않은'이라는 뜻이므로 low(낮은)와 의미가 가장 가깝다. fair는 보통, 적당한 수준의 의미라 맞지 않는다.
+7-15:actual:t18:20|연계 문제이다. 이메일에서 문학 103 학생들이 Gail Sanders가 작가의 의도대로 등장인물을 표현했는지 토론한다고 했고, Gail Sanders는 첫 번째 지문의 연극 출연 배우이므로 학생들이 연극을 관람했음을 알 수 있다.
+7-15:actual:t18:21|이메일에서 Lander 씨가 문학 103 수업의 학생들에게 강연해 달라고 요청하고 토론 내용까지 전하는 것으로 보아 해당 수업의 작문 강사임을 유추할 수 있다.
+7-15:actual:t18:22|이메일에서 Kyle 씨가 5월 25일에 미네소타 대학교에서 강연하고, 11시에 신문사와 인터뷰하러 떠나는 것으로 보아 같은 날 기자를 만날 것임을 추론할 수 있다.
+7-15:actual:t23:23|첫 번째 지문 웹페이지에서 We now offer steam cleaning for curtains and furniture as well라고 했으므로 커튼과 가구 청소라는 새로운 서비스를 추가했다는 (D)가 정답이다. now offer가 added a new service로 재표현되었다.
+7-15:actual:t23:24|웹페이지에서 Sparkle Cleaning을 한 번도 이용한 적이 없다면 Tom Renfro에게 연락하라고 했다. 즉 신규 고객 등록을 담당하는 사람임을 알 수 있다.
+7-15:actual:t23:25|이메일의 발신자와 수신자가 같은 redmond-hotel.com 도메인이므로 동료이고, 첫 문장에서 지역 청소 업체들에 대해 우리가 실시한 조사(our research of cleaning businesses in the area)라고 했으므로 지역 업체를 조사했음을 알 수 있다.
+7-15:actual:t23:26|연계 문제이다. 이메일에서 12월 14일에 객실 매트리스 50개를 청소한다고 했고, 웹페이지에서 25개 이상 청소 시 10퍼센트 할인을 해 주므로 할인된 가격으로 제공되었을 것이다.
+7-15:actual:t23:27|연계 문제이다. 고객평에서 Rosa Lopez가 제공한 서비스에 놀랐다(amazed by)고 했고, 이메일에서 Rosa Lopez가 프런트데스크 직원임을 알 수 있으므로 프런트데스크 직원에게 감명받았다는 (C)가 정답이다.
+7-15:actual:t28:28|첫 번째 이메일에서 운영 관리자로 승진한 지 한 달밖에 되지 않았다(It's only been a month since I moved up to the operations manager position)고 했으므로 최근에 승진했다는 (B)가 정답이다.
+7-15:actual:t28:29|연계 문제이다. 두 번째 이메일에서 Tambova 호텔만 스탠다드 클래스라고 했고, 일정표에서 Tambova 호텔은 다릭 현장 방문일에 투숙하므로 정답은 다릭이다.
+7-15:actual:t28:30|출장 일정표를 확인해 호텔을 세어 보면 총 5곳(Kalovov, Zhongda, Regent, Tambova, Silver)이다.
+7-15:actual:t28:31|연계 문제로 고난도이다. 화폐 정보는 Bonner가 관광청 웹사이트를 확인하라고 답했고 숙박 시설은 첫 답변에서 설명했다. 출장 음식은 Kamal이 묻지 않았다. 하지만 출장 일정이 너무 빠듯하지 않느냐는 질문에는 답하지 않았으므로 (D)가 정답이다.
+7-15:actual:t28:32|이메일 후반부에서 화폐 정보를 찾기 위해 다가스탄 관광청 웹사이트에 들어가 보라고(Try the Dagastan Tourism Office's Web site) 권했으므로 온라인 자료를 이용하는 것이 정답이다.

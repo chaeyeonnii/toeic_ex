@@ -1,0 +1,66 @@
+# 유닛 5-5(동사 3 자동사/타동사), 5-6(to부정사/동명사) 해설 (정답과 해설 pp.94-102)
+5-5:practice-B:1|wait 뒤에 목적어가 오려면 전치사 for가 필요하다. wait me가 아니라 wait for me가 되어야 한다.
+5-5:practice-B:2|'~의 것이다, ~에게 속해 있다'는 belong to로 쓰므로 맞는 문장이다.
+5-5:practice-B:3|rise(상승하다)는 자동사라 수동태를 만들지 않는다. were risen이 아니라 과거형 rose가 되어야 한다.
+5-5:practice-B:4|'수업·프로그램에 등록하다'는 register for로 쓴다. in이 아니라 for가 되어야 한다. (등록 장소가 올 때는 register at the reception desk처럼 at 사용 가능)
+5-5:practice-B:5|return은 자동사와 타동사로 모두 쓰인다. 수동태 be returned는 '반납될 것이다'가 되어 어색하므로 '돌아오다'라는 뜻의 자동사 return이 맞다.
+5-5:practice-B:6|expire는 대표적인 자동사라 수동태를 만들지 않는다. last month(과거 시간 표현)와 함께 과거시제 expired를 쓴 맞는 문장이다.
+5-5:practice-B:7|comply는 '(법·명령·규정 등을) 따르다'라는 뜻으로 반드시 comply with 형태로 쓴다. comply to가 아니라 comply with가 되어야 한다.
+5-5:practice-B:8|report는 타동사로 쓰이면 '~을 보고하다, 신고하다'라는 뜻이다. 여기서는 목적어 a missing item을 취한 맞는 문장이다.
+5-5:practice-B:9|take place(일어나다)는 대표적인 자동사 표현이라 수동태가 안 된다. was taken place가 아니라 took place가 되어야 한다.
+5-5:practice-B:10|respond(응답하다)는 자동사라 뒤에 전치사 to가 온다. respond와 to 사이의 빈칸에는 형용사 quick이 아니라 부사 quickly가 와야 한다. (respond quickly to ~)
+5-5:actual:1|전치사 with가 있으므로 with와 바로 함께 쓸 수 있는 동사는 (D) communicate뿐이다. communicate with ~는 '~와 소통하다'라는 뜻이다.
+5-5:actual:2|빈칸 뒤 to 다음에 명사 the safety standards가 있으므로 전치사 to이다. 전치사 to와 어울려 '(규정 등을) 준수하다'를 뜻하는 (D) conform이 정답이다.
+5-5:actual:3|빈칸 뒤에 전치사 in이 있다. specialize in(~을 전문으로 하다)이 맞으므로 (B) specializes가 정답이다.
+5-5:actual:4|동사 자리 어휘 문제이다. 목적어 sharp images를 취하는 타동사 (C) creates(~을 만들어내다)가 알맞다. result in, depend on, appear to be는 문맥과 맞지 않는다.
+5-5:actual:5|빈칸 뒤 전치사 in과 함께 쓰이는 동사를 찾는다. result in(~라는 결과를 낳다)이므로 (A) result가 정답이다. 나머지는 in과 함께 쓰지 않는다.
+5-5:actual:6|빈칸 뒤에 전치사 없이 Ms. Ansara's report가 바로 목적어로 오므로 타동사가 필요하다. consult는 '~을 참고하다'라는 뜻의 타동사라 (C) consult가 정답이다. inquire about, look at, subscribe to는 전치사가 필요하다.
+5-5:actual:7|proceed는 자동사로 proceed with(~을 진행하다)처럼 쓰인다. 빈칸은 부사 자리라 (D) cautiously가 정답이다. recommend 뒤 that절에서는 should가 생략되어 동사원형 proceed를 쓴다.
+5-5:actual:8|조동사 should 뒤 동사 어휘 문제이다. 빈칸 뒤에 전치사 to가 있으므로 report to(~에게 보고하다)가 되는 (A) report가 정답이다.
+5-5:actual:9|빈칸 뒤 목적어 a lecture가 있으므로 타동사가 필요하다. 강의를 '하다'의 뜻으로 쓰이는 타동사 (C) present가 정답이다. succeed, participate, speak은 전치사가 필요하다.
+5-5:actual:10|collaborate는 collaborate with(~와 협력하다) 또는 collaborate on(~에 대해 협력하다)으로 쓴다. 빈칸 뒤에 filming이 오므로 '촬영에 대해 협력하다'가 자연스러워 (C) on이 정답이다.
+5-5:actual:11|빈칸 뒤 전치사 on이 있다. concentrate on(~에 집중하다)이므로 (C) concentrate가 정답이다.
+5-5:actual:12|빈칸 뒤 전치사 with가 있다. with와 쓰이는 동사는 comply with(~을 준수하다)이므로 (A) comply가 정답이다.
+5-5:actual:13|목적을 나타내는 to 다음 동사원형 자리이고 목적어 each of her design plans가 있으므로 타동사가 필요하다. detail은 '상세히 알리다'라는 타동사로 쓰이므로 (A) detail이 정답이다.
+5-5:actual:14|접속사 if가 이끄는 절의 주어 problems가 복수이므로 복수동사가 필요하다. occur는 자동사라 수동태가 안 되고 (A) occur가 정답이다.
+5-5:actual:15|빈칸 뒤에 전치사 to가 있으므로 reply to(~에게 답하다)가 되는 (D) reply가 정답이다. check, include는 전치사 없이 쓰는 타동사이고 wait는 for와 쓴다.
+5-5:actual:16|목적을 나타내는 to부정사의 동사 자리이고 뒤에 전치사 for가 있다. qualify for(~의 자격을 얻다)가 알맞으므로 (A) qualify가 정답이다. 나머지는 타동사라 목적어가 바로 필요하다.
+5-5:actual:17|빈칸 뒤에 전치사 with가 있다. with와 짝을 이룰 수 있는 동사는 collaborate이므로 (D) collaborated가 정답이다. support, provide, conduct는 타동사라 바로 목적어가 필요하다.
+5-5:actual:18|turn은 뒤의 전치사에 따라 뜻이 달라진다. 목적어가 reports(보고서)이므로 '보고서를 제출하다'라는 뜻의 turn in이 자연스러워 (B) in이 정답이다.
+5-5:actual:19|빈칸 뒤 전치사 in이 있다. participate in(~에 참여하다)이므로 (A) participate가 정답이다. attend는 타동사, belong은 to와 쓰이며 concentrate는 의미상 맞지 않다.
+5-5:actual:20|주어 costs가 복수이고 allocated는 '할당된'이라는 뜻의 과거분사로 advertising costs를 수식한다. 빈칸은 동사 자리이고 remain은 자동사이므로 (B) have remained가 정답이다.
+5-6:practice-B:1|enjoy는 동명사(-ing)를 목적어로 취하므로 to read가 아니라 reading이 되어야 한다.
+5-6:practice-B:2|avoid는 동명사(-ing)를 목적어로 취하므로 맞는 문장이다.
+5-6:practice-B:3|consider는 동명사를 목적어로 취한다. be considering은 진행형이고 moving이 동명사 목적어이므로 맞는 문장이다.
+5-6:practice-B:4|dislike는 동명사를 목적어로 취하므로 to do가 아니라 doing이 되어야 한다.
+5-6:practice-B:5|look forward to에서 to는 전치사이므로 뒤에 동명사가 와야 한다. meet가 아니라 meeting이 되어야 한다.
+5-6:practice-B:6|have experience 뒤에는 -ing가 오는 관용 패턴이다. to hold가 아니라 holding이 되어야 한다. (경험이 있다는 뜻의 have experience in/of -ing 형태를 기억)
+5-6:practice-B:7|mind(꺼리다)는 동명사를 목적어로 취하므로 맞는 문장이다.
+5-6:practice-B:8|delay는 동명사를 목적어로 취하므로 to submit가 아니라 submitting이 되어야 한다.
+5-6:practice-B:9|practice(연습하다)는 동명사를 목적어로 취하는 동사이므로 맞는 문장이다.
+5-6:practice-B:10|invite는 '초대하다'보다 '권유하다'의 뜻으로 invite+사람 목적어+to부정사 구조이다. 수동태가 되면 사람 주어+be invited to+동사원형이 되어 맞는 문장이다.
+5-6:practice-B:11|enable은 to부정사와 함께 쓰려면 목적어가 필요하다. enable+목적어(the machine)+to부정사 형태가 되어야 하므로 틀린 문장이다.
+5-6:practice-B:12|spend는 spend+시간+-ing(~하는 데 시간을 쓰다) 형태로 쓰므로 맞는 문장이다. '~를 위해 공부하다'는 study for로 쓸 수 있다.
+5-6:practice-B:13|risk는 동명사를 목적어로 취하는 동사이므로 맞는 문장이다.
+5-6:practice-B:14|동명사+목적어(Finding the right size for me)가 주어 자리에 오고 단수 동사 is가 쓰였으므로 맞는 문장이다.
+5-6:practice-B:15|전치사 instead of 뒤에는 동명사가 오는데 attending 뒤에는 목적어가 필요하다. attending the meeting처럼 목적어를 써야 하므로 틀린 문장이다.
+5-6:actual:1|ask는 to부정사를 목적어 보어로 취하는 동사이다. 'ask+목적어+to 동사원형'에서 목적어 없이 쓰면 수동태 형태로 쓰인다. 따라서 (D) to be notified가 정답이다.
+5-6:actual:2|upon은 전치사라 뒤에 명사가 와야 한다. upon creating은 of와 이어져야 하는데 빈칸 뒤에 of가 바로 이어지므로 정확한 명사인 (B) creation이 정답이다.
+5-6:actual:3|at은 전치사라 뒤에 동사를 쓸 수 없으므로 동사 (B)는 소거한다. 전치사 뒤에 동명사가 와서 the beauty of songs를 목적어로 취하는 (D) finding이 정답이다.
+5-6:actual:4|가주어 it과 의미상 주어를 나타내는 for로 for+의미상 주어+to부정사 구조를 만든다. 따라서 (C) for가 정답이다.
+5-6:actual:5|be committed to -ing(~하는 데 전념하다) 구문이다. 이때 to는 전치사이므로 뒤에 동명사가 와서 (A) providing이 정답이다.
+5-6:actual:6|be due to+동사원형(~할 예정이다) 형태이다. be limited to나 be vulnerable to의 to는 전치사지만 be due to는 to부정사로 쓰이므로 (D) to be가 정답이다.
+5-6:actual:7|before는 전치사 겸 접속사이다. 뒤에 주어가 없으므로 전치사로 보아 동명사 (C) attempting이 정답이다. attempt는 동사나 명사로 쓰이는 어휘이다.
+5-6:actual:8|'기꺼이 ~하다'는 be willing to+동사원형이다. 빈칸 뒤 the game을 목적어로 하는 동명사 losing을 취해야 하므로 동명사를 목적어로 취하는 동사 risk가 알맞아 (A) risk가 정답이다.
+5-6:actual:9|by -ing(~함으로써)는 수단을 나타내는 표현으로, 영업 시간을 연장함으로써 더 많은 고객을 유치할 수 있었다는 문맥이다. 전치사 by가 가장 잘 어울려 (B) by가 정답이다.
+5-6:actual:10|that절의 동사 make는 5형식 동사로 가목적어 it을 쓰고 진목적어 to부정사를 뒤에 둔다. possible 뒤에 to supervise가 오는 구조이므로 (B) it이 정답이다.
+5-6:actual:11|time to+동사원형, proposal to+동사원형처럼 to부정사가 명사를 뒤에서 수식하는 표현이다. 문맥상 '구조조정을 하자는 제안'이므로 (C) proposal이 정답이다.
+5-6:actual:12|company outings는 복합명사이므로 빈칸은 동사 뒤에서 목적어로 쓰일 수 있는 동명사가 필요하다. 동사 has를 쓰는 단수 주어이므로 동명사 (A) Organizing이 정답이다.
+5-6:actual:13|work overtime은 '초과 근무하다'를 뜻하고 문장이 이미 완전하다. 완전한 문장 뒤에 목적을 나타내는 부사 역할의 to부정사가 알맞으므로 (D) to meet가 정답이다.
+5-6:actual:14|be beneficial to ~는 전치사 to와 쓰이므로 뒤에 동명사가 오기 쉽지만, 빈칸 뒤 to facilitate에서 to는 to부정사이다. be meant to+동사원형(~하도록 의도되다)이므로 (C) meant가 정답이다.
+5-6:actual:15|빈칸이 the 뒤 명사 자리이고 뒤에 to부정사의 수식을 받는 어휘이다. chance to+동사원형(~할 기회)이 관용 구조이므로 (B) chance가 정답이다.
+5-6:actual:16|because가 이끄는 절의 주어 Mr. Garcia 뒤에 빈칸이 있고 뒤에 to inform이 이어진다. neglect to+동사원형(~하는 것을 소홀히 하다)이 자연스러우므로 (A) neglected가 정답이다.
+5-6:actual:17|The town needs volunteers까지 완전한 문장이다. 완전한 문장 뒤에서 목적(~하기 위해)을 나타내는 to부정사가 알맞으므로 (D) to help가 정답이다. help out은 하나의 덩어리 표현이다.
+5-6:actual:18|Please로 시작하는 명령문은 reply to this e-mail만으로 완전하다. 그 뒤에 '~하기 위해서'를 뜻하는 부사적 역할의 to부정사가 와야 하므로 (B) to request가 정답이다.
+5-6:actual:19|be strongly encouraged to+동사원형(~하도록 강력히 권장되다) 구조이다. 수동태 동사 바로 뒤에 to provide가 이어지는 구조에 맞는 동사는 (A) encouraged이다. hope는 be hoped to 형태로 쓰이지 않는다.
+5-6:actual:20|전치사 뒤에 동명사와 명사 목적어가 올 수 있다. Despite(~에도 불구하고)는 전치사로 delivering several shipments late를 이끌 수 있어 (D) Despite가 정답이다. Because는 접속사이고 Nevertheless는 접속부사이다.

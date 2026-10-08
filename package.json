@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "bank": "node scripts/build-bank.mjs",
+    "test": "npm run bank && node --test tests/*.test.mjs",
+    "predev": "npm run bank",
+    "prebuild": "npm run bank",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
