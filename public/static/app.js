@@ -100,7 +100,6 @@ function makeIds(list, shuffle, count) {
   return ids;
 }
 
-/* ---------- 홈 ---------- */
 function home() {
   const total = pool().length;
   const wrongIds = Object.keys(wrong).filter((id) => byId[id]);
@@ -127,7 +126,7 @@ function home() {
   });
   h += `<div class="card"><h2>문제 유형</h2><div class="chips" style="margin-top:10px">
     ${Object.keys(CAT).map((c) => `<button class="chip ${prefs.cats[c] ? "on" : ""}" data-cat="${c}">${CAT[c]}</button>`).join("")}</div>
-    <div class="muted" style="margin-top:8px">연습=감성 갖추기 · 실전=실전 체험하기 · 예제=본책 풀이 예시 · 암기=[암기 필수] 박스 퀴즈</div></div>
+    <div class="muted" style="margin-top:8px">연습 · 실전 · 예제 · 암기</div></div>
     <div class="card"><h2>문제 수</h2><div class="chips" style="margin-top:10px">
     ${[0, 10, 20, 30, 50].map((n) => `<button class="chip ${prefs.count === n ? "on" : ""}" data-count="${n}">${n ? n + "문항" : "전체"}</button>`).join("")}</div>
     <label class="sw" style="margin-top:10px"><span><b>문제 순서 섞기</b><div class="muted">끄면 책 순서대로 나와요</div></span>

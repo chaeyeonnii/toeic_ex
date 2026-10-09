@@ -4,7 +4,6 @@
 기본 787문항과 암기 589문항, 총 1,376문항을 담고 있으며 오프라인에서도 동작합니다.
 
 - **바로 풀어보기:** https://toeic-teal-zeta.vercel.app
-- **저장소:** https://github.com/chaeyeonnii/toeic_ex
 
 ## 기능
 
