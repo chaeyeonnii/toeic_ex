@@ -5,7 +5,7 @@
 #   compl : 완전자동사|뜻                        -> 전치사 필요 여부 + 뜻
 #   both  : 표현|자 또는 타|뜻                   -> 자동사/타동사 구분
 #   cat   : 항목|정답 라벨(여러 개면 /)|뜻        -> 분류 문제. @list 줄 옵션: 질문 | 라벨1;라벨2;...
-#   mean  : 항목|뜻                              -> 뜻 고르기만
+#   mean  : 항목|뜻[|참고]                       -> 뜻 고르기 + 뜻 보고 표현 고르기. 항목에 {전치사}가 있으면 전치사 고르기도 추가
 @list 5-5|자동사+전치사 (토익에 자주 출제되는 자동사+전치사)|vprep
 arrive|in/at|~에 도착하다
 deal|with|~을 처리하다, 다루다
@@ -553,3 +553,203 @@ both A ( ___ ) B|and|or;nor;but also|both A and B : A와 B 둘 다
 either A ( ___ ) B|or|and;nor;but also|either A or B : A와 B 중 하나
 neither A ( ___ ) B|nor|and;or;but also|neither A nor B : A도 B도 아닌
 not only A ( ___ ) B|but also|and;or;nor|not only A but (also) B = B as well as A : A뿐만 아니라 B도
+
+# ---------- PART 5 VOCA (Unit 11~13) ----------
+@list 5V-11|동사 + 명사 Collocation|mean
+give a speech|연설하다|= make a speech = deliver a speech
+make a reservation|예약하다
+have a reservation|예약이 있다
+have reservations about|~에 대해 의구심을 갖다
+make a decision|결정하다
+reconsider a decision|결정을 재고하다
+conduct a survey|설문조사를 실시하다
+meet (one's) expectations|기대치를 충족시키다
+exceed one's expectations|기대치를 넘어서다|= surpass one's expectations
+call a meeting|회의를 소집하다
+accept an offer|제안을 수락하다
+decline an offer|제안을 거절하다
+issue a refund|환불해 주다
+place an order|주문하다
+fill an order|주문을 처리하다|= fulfill an order
+fill a position|공석을 채우다, 충원하다
+attract customers|고객을 끌어들이다|= draw customers
+use caution|주의하다, 조심하다|= exercise caution
+reach an agreement|합의에 이르다|= reach a consensus = come to an agreement
+sign a contract|계약을 맺다
+win a contract|계약을 따내다|= secure a contract
+seek advice|조언을 구하다|= solicit advice
+address issues|문제를 처리하다
+address complaints|불만을 처리하다
+address concerns|우려[걱정]를 처리하다
+raise funds|기금을 모으다|= raise money
+take (the) initiative|솔선해서 하다, 앞장서서 하다
+meet one's needs|요구를 충족시키다|= accommodate / fit / satisfy / suit one's needs
+earn a reputation|명성을 얻다|= gain a reputation
+build a reputation|명성을 쌓다|= establish a reputation
+
+@list 5V-11|형용사 + 명사 Collocation|mean
+reasonable price|합리적인 가격
+affordable price|저렴한 가격
+competitive price|(경쟁력 있는) 적절한 가격
+regular customer|단골 고객|= frequent customer = loyal customer
+extensive research|광범위한 연구
+extensive experience|광범위한 경력
+extensive knowledge|광범위한 지식
+open position|공석|= vacant position = vacancy
+generous donation|후한 기부
+high demand|많은 수요
+sizable demand|엄청난 수요|= strong demand
+rising demand|증가하는 수요
+key factor|주요 요인|= key element
+brief delay|일시적인 지연|brief는 '간략한, 짧은'이라는 뜻도 있다
+brief report|간략한 보고서
+brief memo|간략한 메모
+primary concern|주요 관심사
+primary responsibility|주요 업무[책임]
+primary aim|주요 목표
+designated area|지정된 장소
+immediate area|인접한 지역
+top priority|최우선 순위
+high priority|높은 우선순위
+qualified applicant|자격을 갖춘 지원자
+successful applicant|합격자
+advance notice|사전 통보|= prior notice
+until further notice|추후 통보가 있을 때까지
+on short notice|급작스러운 통보에도
+detailed information|자세한 정보
+further information|추가 정보|= additional information
+routine maintenance|정기 보수
+intended purpose|의도한 목적, 원래 목적
+intended recipient|지정된 수령인
+intended audience|의도한 대상, (광고 등이) 겨냥하는 대상
+lasting effect|지속적인 영향
+lasting impression|지속적인 인상, 변함없는 감명
+dramatic increase|급격한 증가
+dramatic change|급격한 변화
+dramatic impact|극적인 영향
+considerable change|상당한 변화|= significant change = substantial change
+steady growth|꾸준한 성장
+full refund|전액 환불
+partial refund|부분 환불
+heavy use|과도한 사용
+
+@list 5V-12|부사 + 동사 Collocation|mean
+considerably increase|상당히 증가하다|= significantly / substantially increase (decrease도 가능)
+steadily increase/decrease|꾸준히 증가/감소하다
+dramatically increase/decrease|급격히 증가/감소하다|= sharply increase/decrease
+incrementally increase/decrease|점진적으로 증가/감소하다
+temporarily close|일시적으로 문을 닫다
+thoroughly inspect|철저히 점검하다|= thoroughly check = thoroughly examine
+thoroughly enjoy|대단히[매우] 즐기다|thoroughly는 '대단히, 완전히'라는 의미로도 쓰인다
+react favorably to|~에 긍정적으로[호의적으로] 반응하다|= respond favorably to
+automatically activate|자동으로 작동하다
+highly recommend|매우 추천하다, 적극 추천하다|= strongly recommend (강력히 추천하다)
+readily recommend|선뜻 추천하다
+arrive punctually|제시간에 도착하다
+rely heavily on|~에 크게 의존하다
+rely exclusively on|오직 ~에 의지하다, 오직 ~에 달려 있다
+go smoothly|순조롭게 진행되다|= run smoothly = progress smoothly
+closely monitor|면밀히 감시하다
+completely fill out|완벽히 작성하다
+anonymously fill out|익명으로 작성하다
+far exceed|훨씬 초과하다
+far in advance|훨씬 전에
+securely fasten|단단히 고정시키다[잠그다]
+evenly divide|균등하게[공평하게] 나누다|= equally divide
+evenly apply|균일하게[고르게] 바르다
+eagerly await|간절히 기다리다
+eagerly anticipate|간절히 기대하다
+briefly meet|잠깐 만나다
+briefly speak|간단히[잠시] 말하다
+briefly halt|잠시 중단하다
+work properly|제대로 작동하다
+work reliably|안정적으로 작동하다
+work well|잘 작동하다
+work remotely|원격으로 일하다
+work diligently|부지런히 일하다
+work from home|재택근무를 하다
+plan ~ accordingly|거기에 맞게[이에 맞춰] 계획하다
+randomly select|무작위로[임의로] 선택하다|= randomly choose
+
+@list 5V-12|부사 + 형용사 Collocation|mean
+conveniently located|편리한 곳에 위치한, 입지 조건이 좋은
+strategically located|전략적으로 위치한
+centrally located|중심에 위치한
+fully booked|예약이 꽉 찬
+fully operational|완전 가동되는
+fully equipped|완벽히 갖춰진
+fully refundable|전액 환불 가능한
+highly qualified|우수한 자격을 갖춘|well qualified = fully qualified : 자격이 충분한
+financially sound|재정적으로 안정적인|= financially stable / financially solid (재정적으로 탄탄한)
+tentatively scheduled|잠정적으로 예정된
+widely used|널리 사용되는|commonly used : 흔하게 사용되는
+readily accessible|쉽게 접근 가능한
+readily available|쉽게 이용 가능한
+critically acclaimed|비평가들의 호평을 받는
+exactly the same|정확히 똑같은|same은 형용사지만 앞에 the가 붙는다
+newly hired|새로[최근에] 채용된, 신입의
+newly elected|새로 선출된
+newly renovated|최근에 보수된|= recently renovated
+specifically designed|특별히 만들어진[고안된]
+almost complete|거의 끝난|= nearly complete
+mutually beneficial|상호간에 득이 되는, 서로 이익이 되는
+barely noticeable|거의 눈에 띄지 않는
+unseasonably cold|계절에 맞지 않게 추운
+uncomfortably cold|불쾌할 만큼 추운
+individually wrapped|개별적으로 포장된
+gift wrapped|선물 포장된
+affordably priced|적당한 가격의|= reasonably priced
+competitively priced|가격 경쟁력이 있는
+relatively new|상대적으로 새로운, 비교적 새것의
+relatively inexpensive|비교적 저렴한
+relatively limited|비교적 제한된
+locally grown|현지에서 기른, 지역에서 자란
+well attended|많은 사람들이 참석한
+well received|호평을 받은
+
+# {전치사} 로 표시하면 전치사 고르기 문제도 함께 만든다
+@list 5V-13|동사 + 전치사 Collocation|mean
+comply {with}|~을 준수하다, 지키다|= adhere to = conform to
+proceed {to}|~로 (나아)가다|proceed to + 동사원형 : ~을 추진하다, 진행하다
+proceed {with}|~을 계속하다
+object {to}|~에 반대하다
+participate {in}|~에 참석[참가]하다|= take part in
+register {for}|~에 등록하다, ~을 신청하다|= sign up for
+respond {to}|~에 답하다, 반응하다, 대응하다
+consist {of}|~로 구성되다|= comprise = be composed of
+depend {on/upon}|~에 의존하다, ~에 달려 있다
+specialize {in}|~을 전문으로 하다
+look {at}|~을 보다
+look {for}|~을 찾다
+look {over}|~을 검토하다
+look {after}|~을 돌보다, ~에 유의하다
+
+@list 5V-13|형용사 + 전치사 Collocation|mean
+be responsible {for}|~에 책임이 있다|= be (held) liable for = be (held) accountable for
+be compatible {with}|~와 호환되다
+be eligible {for}|~에 자격이 있다, ~의 대상이 되다|be eligible to + 동사원형 : ~할 자격이 있다
+be concerned {about}|~에 대해 걱정[염려]하다
+be concerned {with}|~와 관련되다
+be indicative {of}|~을 나타내다, 시사하다
+be capable {of}|~할 수 있다|= be able to + 동사원형
+be committed {to}|~에 전념하다|= be dedicated[devoted] to
+be pleased {with}|~에 기뻐하다, 만족하다|= be delighted with = be satisfied with\nbe pleased to + 동사원형 : ~하게 되어 기쁘다 (토익에 더 자주 나옴)
+be interested {in}|~에 관심이 있다, 흥미가 있다
+be familiar {with}|~을 잘 알다, 익숙하다
+
+@list 5V-13|명사 + 전치사 Collocation|mean
+access {to}|~에 접속, 접근, 열람|access가 동사일 때는 타동사라 to가 필요 없다
+have access {to}|~에 접속[접근]할 수 있다, ~을 열람할 수 있다|= gain access to
+impact {on}|~에 미치는 영향
+have an impact {on}|~에 영향을 미치다|= have an influence on = have an effect on
+substitute {for}|~의 대체품, 대체할 사람
+problem {with}|~의 문제|= issue with
+solution {to}|~의 해결책
+reason {for}|~의 이유
+comment {on}|~에 대한 논평, 의견|동사일 때도 comment on (~에 대해 논평하다)
+proximity {to}|~에 가까움, 근접
+revision {to}|~의 수정|= modification to = adjustment to
+improvement {to}|~의 개선[향상]
+demand {for}|~의 수요
+dependence {on/upon}|~에 대한 의존
+dependent {on/upon}|~에 의존하는

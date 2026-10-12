@@ -102,12 +102,24 @@ export function buildMemo() {
         const hint = match ? ` (어미 ${match[2]})` : "";
         put("cat", `[${shown}]`, labels, label, `${shown} → ${label}${hint} : ${meaning}`, list.opts[0]);
       } else if (list.kind === "mean") {
-        const [item, meaning] = r;
-        const exp = `${item} : ${meaning}`;
+        // {전치사} 표시는 화면에서 지우고, 전치사 고르기 문제의 정답으로 쓴다
+        const [raw, meaning, note] = r;
+        const plain = (value) => value.replace(/[{}]/g, "");
+        const item = plain(raw);
+        const exp = `${item} : ${meaning}${note ? `\n${note.replaceAll("\\n", "\n")}` : ""}`;
         put("mean", `[${item}]`, shuffled([meaning, ...pick(means, [meaning])]), meaning, exp, "알맞은 뜻을 고르세요");
         if (means.filter((m) => m === meaning).length === 1 && list.rows.length >= 8) {
-          const items = list.rows.filter((row) => row[1] !== meaning).map((row) => row[0]);
-          put("rev", `뜻: [${meaning}]`, shuffled([item, ...pick(items, [])]), item, exp, "알맞은 표현을 고르세요");
+          const items = list.rows.filter((row) => row[1] !== meaning).map((row) => plain(row[0]));
+          // 뜻에 [ ]가 들어 있으면 강조 표시가 깨지므로 괄호로 감싸지 않는다
+          put("rev", `뜻: ${meaning}`, shuffled([item, ...pick(items, [])]), item, exp, "알맞은 표현을 고르세요");
+        }
+        const marked = raw.match(/^(.*?)\s*\{([^}]+)\}(.*)$/);
+        if (marked) {
+          const [, head, preps] = marked;
+          // 같은 단어에 쓰이는 다른 전치사는 오답 보기에서 뺀다
+          const valid = new Set(list.rows.map((row) => row[0].match(/^(.*?)\s*\{([^}]+)\}/)).filter((m) => m && m[1] === head).flatMap((m) => m[2].split("/")));
+          const answer = preps.split("/")[0];
+          put("prep", `[${head}] ( ______ )${marked[3]}\n뜻: ${meaning}`, shuffled([answer, ...pick(PREPS.filter((p) => !valid.has(p)), [])]), answer, exp, "알맞은 전치사를 고르세요");
         }
       } else if (list.kind === "pair") {
         const [word, meaning] = r;
