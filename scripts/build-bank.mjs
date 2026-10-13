@@ -51,6 +51,17 @@ for (const u of raw) {
 }
 assert.equal(questions.length, 787);
 questions.push(...buildMemo());
+// 모의고사: 3000제를 실제 시험처럼 회차당 Part 5 60 · Part 6 16 · Part 7 24문항(100문항)으로 나눔
+const mock = JSON.parse(readFileSync(new URL("../data/mock.json", import.meta.url), "utf8"));
+assert.equal(mock.questions.length, 3000);
+const mockRound = (no) => no <= 1800 ? Math.ceil(no / 60) : no <= 2280 ? Math.ceil((no - 1800) / 16) : Math.ceil((no - 2280) / 24);
+for (let r = 1; r <= 30; r++) units.push({ key: `M-${r}`, part: "M", unit: String(r), title: `RC 모의고사 ${r}회`, short: "Part 5·6·7 실전 세트", num: `${r}회` });
+for (const q of mock.questions) {
+  const uid = `M-${mockRound(q.no)}`, sec = q.no <= 1800 ? "part5" : q.no <= 2280 ? "part6" : "part7";
+  const id = `${uid}:${sec}:${q.no}`, set = q.set ? `${uid}:${sec}:p${q.set}` : id;
+  if (q.set) passages[set] = mock.passages[q.set];
+  questions.push({ unitKey: uid, part: "M", unit: mockRound(q.no), cat: "actual", sec, instr: "", id, set, kind: "mcq", no: q.no, prompt: q.stem, options: [..."ABCD"].map((k) => ({ k, label: q.choices[k] })), answer: q.answer });
+}
 const byId = new Map(questions.map((q) => [q.id, q]));
 const explanationsDir = new URL("../data/exp/", import.meta.url);
 for (const filename of readdirSync(explanationsDir).filter((name) => name.endsWith(".txt")).sort()) {
@@ -67,7 +78,7 @@ for (const q of questions) {
   if (q.options) assert(q.options.some((o) => o.k === q.answer), `Invalid answer: ${q.id}`);
   if (q.set !== q.id) assert(passages[q.set], `Missing passage: ${q.id}`);
 }
-const info = [["5", "Part 5", "문법 (Unit 1~10)"], ["5V", "Part 5 VOCA", "빈출 어휘 (Unit 11~13)"], ["6", "Part 6", "장문 빈칸 (Unit 14)"], ["7", "Part 7", "독해 (Unit 15)"]];
+const info = [["5", "Part 5", "문법 (Unit 1~10)"], ["5V", "Part 5 VOCA", "빈출 어휘 (Unit 11~13)"], ["6", "Part 6", "장문 빈칸 (Unit 14)"], ["7", "Part 7", "독해 (Unit 15)"], ["M", "모의고사", "RC 3000제 (30회)"]];
 const parts = info.map(([key, label, sub]) => ({ key, label, sub, units: units.filter((u) => u.part === key).sort((a, b) => (+a.unit || 99) - (+b.unit || 99)) }));
 const memoLegacyIds = JSON.parse(readFileSync(new URL("../data/memo_legacy_ids.json", import.meta.url), "utf8"));
 writeFileSync(new URL("../public/bank.json", import.meta.url), JSON.stringify({ version: "memo-v4", memoLegacyIds, parts, questions, passages }));

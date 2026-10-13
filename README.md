@@ -1,13 +1,14 @@
 # 토익 퀴즈
 
 파트·유닛별 토익 문제와 암기 퀴즈를 풀고 해설과 오답 노트로 복습하는 학습 앱입니다.
-기본 787문항과 암기 589문항, 총 1,376문항을 담고 있으며 오프라인에서도 동작합니다.
+기본 787문항, 암기 997문항, 모의고사 3,000문항(30회), 총 4,784문항을 담고 있으며 오프라인에서도 동작합니다.
 
 - **바로 풀어보기:** https://toeic-teal-zeta.vercel.app
 
 ## 기능
 
 - Part 5 문법·어휘, Part 6, Part 7 및 유닛별 범위 선택
+- RC 모의고사 30회 (회차당 Part 5 60 · Part 6 16 · Part 7 24문항)
 - 연습·실전·예제·암기 유형과 문제 수 선택
 - 답안 제출 후 문제 해설 표시
 - 객관식, O/X, 직접 입력, 바꿔 쓰기 문제
@@ -44,6 +45,7 @@ http://localhost:3000 에서 확인합니다.
 | --- | --- |
 | 원본 문제 | `data/questions_raw.json` |
 | 암기 목록 | `data/memo_src.txt` |
+| 모의고사 (문제·정답·지문) | `data/mock.json` |
 | 해설 | `data/exp/*.txt` (`문제ID\|해설` 형식, `\n`은 줄바꿈) |
 | 이전 암기 ID 대응표 | `data/memo_legacy_ids.json` |
 | 변환 스크립트 | `scripts/build-bank.mjs`, `scripts/build-memo.mjs` |
